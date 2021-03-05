@@ -45,4 +45,3 @@ jobs:
         git add logs.json
         git commit -m "dedup $(date)"
         git push origin HEAD:auto_commits
-        git add __pycache__/
