@@ -44,7 +44,7 @@ jobs:
         echo " "  >> logs.json
         git add logs.json
         git commit -m "dedup $(date)"
-        git push origin HEAD:auto_commit
+        git push
         git add __pycache__/sched_feed.cpython-39.pyc
         git add __pycache__/sched_user.cpython-39.pyc
         git add __pycache__/setup.cpython-39.pyc
