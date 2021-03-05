@@ -35,7 +35,7 @@ jobs:
         git config --global user.email "eitant13@gmail.com"
         git config --global user.name EitanSomething
         git fetch
-        git checkout -b auto_commits --track origin/auto_commits
+        git checkout auto_commits
         git pull origin auto_commits --rebase
         git add __pycache__/sched_feed.cpython-39.pyc
         git add __pycache__/sched_user.cpython-39.pyc
