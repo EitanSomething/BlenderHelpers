@@ -35,17 +35,13 @@ jobs:
         git config --global user.email "eitant13@gmail.com"
         git config --global user.name EitanSomething
         git fetch
-        git checkout -b auto_commit --track origin/auto_commits
-        git pull origin auto_commit --rebase
+        git checkout -b auto_commits --track origin/auto_commits
+        git pull origin auto_commits --rebase
         python scan_stories.py >> logs.json
         git add logs.json
         git commit -m "$(date)"
         python dedup.py
         echo " "  >> logs.json
         git add logs.json
-        git add __pycache__/sched_feed.cpython-39.pyc
-        git add __pycache__/sched_user.cpython-39.pyc
-        git add __pycache__/setup.cpython-39.pyc
         git commit -m "dedup $(date)"
-        git push origin
-       
+        git push origin HEAD:auto_commits
