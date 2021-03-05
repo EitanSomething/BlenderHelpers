@@ -35,7 +35,7 @@ jobs:
         git config --global user.email "eitant13@gmail.com"
         git config --global user.name EitanSomething
         git fetch
-        git checkout -b auto_commits --track origin/main
+        git checkout -b auto_commits --track origin/auto_commits
         git pull origin auto_commits --rebase
         python scan_stories.py >> logs.json
         git add logs.json
