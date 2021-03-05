@@ -47,5 +47,5 @@ jobs:
         git add __pycache__/sched_user.cpython-39.pyc
         git add __pycache__/setup.cpython-39.pyc
         git commit -m "dedup $(date)"
-        git push
+        git push origin
        
