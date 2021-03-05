@@ -37,15 +37,16 @@ jobs:
         git fetch
         git checkout auto_commits
         git pull origin auto_commits --rebase
-        git add __pycache__/sched_feed.cpython-39.pyc
-        git add __pycache__/sched_user.cpython-39.pyc
-        git add __pycache__/setup.cpython-39.pyc
+        
         python scan_stories.py >> logs.json
         git add logs.json
         git commit -m "$(date)"
         python dedup.py
         echo " "  >> logs.json
         git add logs.json
+        git add __pycache__/sched_feed.cpython-39.pyc
+        git add __pycache__/sched_user.cpython-39.pyc
+        git add __pycache__/setup.cpython-39.pyc
         git commit -m "dedup $(date)"
         git push origin HEAD:auto_commits
 
