@@ -42,8 +42,8 @@ jobs:
         git add logs.json
         git commit -m "$(date)"
         python dedup.py
-        echo " "  >> logs.json
-        git add logs.json
+        echo " "  >> logs2.json
+        git add logs2.json
         git add __pycache__/sched_feed.cpython-39.pyc
         git add __pycache__/sched_user.cpython-39.pyc
         git add __pycache__/setup.cpython-39.pyc
