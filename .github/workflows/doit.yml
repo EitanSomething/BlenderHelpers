@@ -39,7 +39,7 @@ jobs:
         git pull origin auto_commits --rebase
         
         python scan_stories.py >> logs.json
-        git add logs.json
+        git add logs2.json
         git commit -m "$(date)"
         python dedup.py
         echo " "  >> logs2.json
