@@ -6,9 +6,7 @@ def do():
     [clean_data.setdefault(line.strip()) for line in f if line.strip() != ""]
   
   with open("logs.json", "w") as f:
-    for one in clean_data:
-       if one not in f.read():
-          print(one, file=f)
+    [print(one, file=f) for one in clean_data]
 
 if __name__ == '__main__':
   do()
