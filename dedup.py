@@ -8,7 +8,7 @@ def do():
   with open("logs.json", "w") as f:
     for one in clean_data:
        if one not in f.read():
-          print(one, file=f)one
+          print(one, file=f)
 
 if __name__ == '__main__':
   do()
