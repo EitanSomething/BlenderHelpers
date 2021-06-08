@@ -28,7 +28,10 @@ def user_url():
                 "phid": phab_data["phid"],
                 "username": phab_data["fields"]["username"],
             }
-            print(json.dumps(data))
+
+            f = open("logs.json", "r")
+            if phab_data["phid"] not in f.read():
+               print(json.dumps(data))
         time.sleep(6)
 
 
