@@ -48,7 +48,7 @@ jobs:
         git add __pycache__/setup.cpython-39.pyc
         git commit -m "dedup $(date)"
         git push origin HEAD:auto_commits
-        curl -H "X-Auth-Token: ${{ secrets.TOKEN }" -H "X-User-Id: ${{ secrets.USERID }}" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "channel": "#ScriptTest", "msg": "This is a test!" }}'
+        curl -H "X-Auth-Token: ${{ secrets.TOKEN }" -H "X-User-Id: ${{ secrets.USERID }}" -H "Content-type:application/json" https://blender.chat/api/v1/chat.sendMessage -d '{"message": { "rid": "LpczsRCWtkYY6AzFt", "msg": "This is a test!" }}'
 
 
         
