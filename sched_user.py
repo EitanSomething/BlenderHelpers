@@ -24,9 +24,7 @@ def user_url():
         for phab_data in user_data["data"]:
             data = {
                 "url": "https://developer.blender.org/people/manage/"
-                + str(phab_data["id"]),
-                "phid": phab_data["phid"],
-                "username": phab_data["fields"]["username"],
+                + str(phab_data["id"]
             }
 
             f = open("logs.json", "r")
