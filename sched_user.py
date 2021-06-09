@@ -22,13 +22,11 @@ def user_url():
 
         user_queue = user_queue[ln:]
         for phab_data in user_data["data"]:
-            data = {
-                "url": "https://developer.blender.org/people/manage/"
-                + str(phab_data["id"])
+            data = "https://developer.blender.org/people/manage/" + str(phab_data["id"])
             }
 
             f = open("logs.json", "r")
-            if "https://developer.blender.org/people/manage/" + str(phab_data["id"] not in f.read():
+            if data not in f.read():
                print(json.dumps(data))
         time.sleep(6)
 
