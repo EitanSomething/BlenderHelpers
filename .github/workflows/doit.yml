@@ -53,6 +53,6 @@ jobs:
         git push origin HEAD:auto_commits
     - name: Curl
       run: |
-        python rocketChatSender.py
+        curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "LpczsRCWtkYY6AzFt", "msg": "@EitanSomething Potential Spam https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.json Everthing on this list will be deleted in 24 hours" }}'
   
         
