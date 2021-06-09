@@ -51,7 +51,7 @@ jobs:
              -H "X-User-Id: ${{ secrets.USERID }} \
              -H "Content-type:application/json" \
             https://blender.chat/ \
-             -d '{ "channel": "#ScriptTest", "text": "@EitanSomething" }' 
+             -d '{ "channel": "#ScriptTest", "text": "This should be working" }' 
         git push origin HEAD:auto_commits
        
 
