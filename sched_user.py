@@ -30,7 +30,7 @@ def user_url():
             }
 
             f = open("logs.json", "r")
-            if phab_data["phid"] not in f.read():
+            if "https://developer.blender.org/people/manage/" + str(phab_data["id"] not in f.read():
                print(json.dumps(data))
         time.sleep(6)
 
