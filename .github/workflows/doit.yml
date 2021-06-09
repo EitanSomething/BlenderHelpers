@@ -47,8 +47,8 @@ jobs:
         git add __pycache__/sched_user.cpython-39.pyc
         git add __pycache__/setup.cpython-39.pyc
         git commit -m "dedup $(date)"
-        curl -H "X-Auth-Token: {"token": "${{ secrets.TOKEN }}"}" \
-             -H "X-User-Id: {"token": "${{ secrets.USERID }}"}" \
+        curl -H "X-Auth-Token: "${{ secrets.TOKEN }}" \
+             -H "X-User-Id: "${{ secrets.USERID }}" \
              -H "Content-type:application/json" \
             https://blender.chat/ \
              -d '{ "channel": "#ScriptTest", "text": "@EitanSomething" }' 
