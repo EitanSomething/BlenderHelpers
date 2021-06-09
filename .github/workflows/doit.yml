@@ -52,6 +52,6 @@ jobs:
              -H "X-User-Id: {"token": "${{ secrets.USERID }}"}" \
              -H "Content-type:application/json" \
             https://blender.chat/ \
-             -d '{ "channel": "#ScriptTest", "text": "@EitanSomething"logs.json }' 
+             -d '{ "channel": "#ScriptTest", "text": "@EitanSomething" + logs.json }' 
 
         
