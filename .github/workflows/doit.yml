@@ -1,8 +1,7 @@
 name: DO_IT
 on:
   schedule:
-    - cron: '0 * * * 1-5'
-    - cron: '0 */2 * * 0,6'
+    - cron:  '00 8,* * * *'
   workflow_dispatch:
 jobs:
   check:
