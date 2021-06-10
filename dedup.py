@@ -3,7 +3,6 @@ from collections import OrderedDict
 def do():
   clean_data = OrderedDict()
   with open("logs.json", "r") as f:
-    f.truncate()
     [clean_data.setdefault(line.strip()) for line in f if line.strip() != ""]
   
   with open("logs.json", "w") as f:
