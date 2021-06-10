@@ -1,8 +1,0 @@
-https://developer.blender.org/people/manage/162192
-https://developer.blender.org/people/manage/162191
-https://developer.blender.org/people/manage/162189
-https://developer.blender.org/people/manage/162188
-https://developer.blender.org/people/manage/162187
-https://developer.blender.org/people/manage/162186
-https://developer.blender.org/people/manage/162185
- 
