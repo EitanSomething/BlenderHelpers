@@ -14,7 +14,6 @@ def user_url():
     """
     global user_queue
     phab = setup.phab
-    open("logs.md", "w").close()
 
     while len(user_queue) > 0:
         ln = min(len(user_queue), LIMIT)
