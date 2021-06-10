@@ -25,8 +25,6 @@ def user_url():
         user_queue = user_queue[ln:]
         f = open("logs.json", "r")
 
-        f.truncate()
-
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/people/manage/" + str(phab_data["id"])
 
