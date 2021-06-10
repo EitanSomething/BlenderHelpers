@@ -14,7 +14,7 @@ def user_url():
     """
     global user_queue
     phab = setup.phab
-    open("logs.json", "w").close()
+    open("logs.md", "w").close()
 
     while len(user_queue) > 0:
         ln = min(len(user_queue), LIMIT)
@@ -23,7 +23,7 @@ def user_url():
         )
 
         user_queue = user_queue[ln:]
-        f = open("logs.json", "r")
+        f = open("logs.md", "r")
 
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/people/manage/" + str(phab_data["id"])
