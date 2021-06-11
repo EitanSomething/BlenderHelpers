@@ -23,7 +23,7 @@ def user_url():
 
         user_queue = user_queue[ln:]
         f = open("logs.md", "r")
-        Safe = open("safe.md", "r")
+        safe = open("safe.md", "r")
 
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/p/" + phab_data["fields"]["username"]
