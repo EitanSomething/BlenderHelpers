@@ -1,5 +1,5 @@
 phab = None
-LIMIT = 1000
+LIMIT = 100
 
 
 def setup_phab():
