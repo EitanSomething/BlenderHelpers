@@ -1,0 +1,52 @@
+name: DO_IT
+on:
+  schedule:
+    - cron:  '0 8,8 * * 1-5'
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
+      USERID: ${{ secrets.USERID }}
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: shivammathur/setup-php@v2
+      with:
+        php-version: '7.4'
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+
+    - name: Fetch arcanist etc.
+      run: |
+          mkdir ~/arc
+          cd ~/arc
+          git clone https://github.com/phacility/libphutil.git
+          git clone https://github.com/phacility/arcanist.git
+          touch ~/.arcrc
+          echo '{"hosts": {"https://developer.blender.org/api/": {"token": "${{ secrets.CONDUIT }}"}}}' > ~/.arcrc
+          cat ~/.arcrc
+    - name: Get phab library etc
+      run: |
+          pip install phabricator
+    - name: Run the script
+      run: |
+        git config --global user.email "eitant13@gmail.com"
+        git config --global user.name EitanSomething
+        git fetch
+        git checkout auto_commits
+        git pull origin auto_commits --rebase
+        
+        python scan_stories.py >> logs.md
+        git add logs.md
+        git commit -m "$(date)"
+        python dedup.py
+        echo " "  >> logs.md
+        git add logs.md
+        git add __pycache__/sched_feed.cpython-39.pyc
+        git add __pycache__/sched_user.cpython-39.pyc
+        git add __pycache__/setup.cpython-39.pyc
+        git commit -m "dedup $(date)"
+        git push origin HEAD:auto_commits
