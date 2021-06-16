@@ -6,9 +6,6 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
-    env:
-      TOKEN: ${{ secrets.TOKEN }}
-      USERID: ${{ secrets.USERID }}
 
     steps:
     - uses: actions/checkout@v2
