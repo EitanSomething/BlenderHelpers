@@ -6,6 +6,10 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
+      USERID: ${{ secrets.USERID }}
+
     steps:
     - name: Curl
       run: |
