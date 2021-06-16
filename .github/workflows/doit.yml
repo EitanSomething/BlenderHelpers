@@ -9,5 +9,5 @@ jobs:
     steps:
     - name: Curl
       run: |
-      curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "9p9NPvT7yFseE8ivA", "msg": "@dfelinto Potential Spam. Not everything on the list is spam. https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md Please clean the file when you are done. All known safe accounts should be added to https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/safe.md" }}'
+         curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "9p9NPvT7yFseE8ivA", "msg": "@dfelinto Potential Spam. Not everything on the list is spam. https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md Please clean the file when you are done. All known safe accounts should be added to https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/safe.md" }}'
         
