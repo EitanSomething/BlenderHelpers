@@ -3,5 +3,3 @@
 "https://developer.blender.org/p/McGybeer"
 "https://developer.blender.org/p/MitsuharuNagasawa"
  
-"https://developer.blender.org/p/IesadaSammiya"
- 
