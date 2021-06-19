@@ -7,3 +7,6 @@
 "https://developer.blender.org/p/khiewan"
 "https://developer.blender.org/p/anshikasharma4567"
  
+"https://developer.blender.org/p/anshikasharma4567"
+"https://developer.blender.org/p/dedouze"
+ 
