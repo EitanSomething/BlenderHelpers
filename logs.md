@@ -11,6 +11,5 @@
 "https://developer.blender.org/p/MarugaIsiba"
 "https://developer.blender.org/p/rachelmiracle"
 "https://developer.blender.org/p/MartinHero13"
- 
 "https://developer.blender.org/p/Janasustin"
  
