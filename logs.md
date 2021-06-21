@@ -16,3 +16,11 @@
 "https://developer.blender.org/p/MackDyson07"
 "https://developer.blender.org/p/JoseDiaz02"
  
+"https://developer.blender.org/p/bloggingrepublic"
+"https://developer.blender.org/p/xate12"
+"https://developer.blender.org/p/gadgetswhy"
+"https://developer.blender.org/p/JoseDiaz02"
+"https://developer.blender.org/p/KatherineMartin02"
+"https://developer.blender.org/p/MackDyson07"
+"https://developer.blender.org/p/Janasustin"
+ 
