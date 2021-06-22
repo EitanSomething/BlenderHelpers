@@ -5,3 +5,6 @@
 "https://developer.blender.org/p/ankitatakur"
 "https://developer.blender.org/p/Divyaji"
  
+"https://developer.blender.org/p/simranmehta4u"
+"https://developer.blender.org/p/Divyaji"
+ 
