@@ -5,3 +5,7 @@
 "https://developer.blender.org/p/programycad"
 "https://developer.blender.org/p/Fibly"
  
+"https://developer.blender.org/p/alanharman"
+"https://developer.blender.org/p/Fibly"
+"https://developer.blender.org/p/ankitatakur"
+ 
