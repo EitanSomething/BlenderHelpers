@@ -20,7 +20,3 @@
 "https://developer.blender.org/p/emireif"
 "https://developer.blender.org/p/lily0"
  
-"https://developer.blender.org/p/lily0"
-"https://developer.blender.org/p/vegasjoy"
-"https://developer.blender.org/p/flightbooking123"
- 
