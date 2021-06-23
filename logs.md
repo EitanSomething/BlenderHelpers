@@ -17,11 +17,6 @@
 "https://developer.blender.org/p/rowan"
 "https://developer.blender.org/p/flightbooking123"
 "https://developer.blender.org/p/vegasjoy"
- 
 "https://developer.blender.org/p/emireif"
 "https://developer.blender.org/p/lily0"
-"https://developer.blender.org/p/vegasjoy"
-"https://developer.blender.org/p/flightbooking123"
-"https://developer.blender.org/p/EmanuelBarrett"
-"https://developer.blender.org/p/rowan"
  
