@@ -14,3 +14,9 @@
 "https://developer.blender.org/p/Elizabethholmes"
 "https://developer.blender.org/p/derick18"
  
+"https://developer.blender.org/p/EmanuelBarrett"
+"https://developer.blender.org/p/rowan"
+"https://developer.blender.org/p/derick18"
+"https://developer.blender.org/p/Elizabethholmes"
+"https://developer.blender.org/p/khumyphuoc3"
+ 
