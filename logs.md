@@ -14,10 +14,6 @@
 "https://developer.blender.org/p/JamieAustin123"
 "https://developer.blender.org/p/markuszusak"
 "https://developer.blender.org/p/InfiniteX808"
- 
 "https://developer.blender.org/p/daveking"
-"https://developer.blender.org/p/markuszusak"
-"https://developer.blender.org/p/JamieAustin123"
-"https://developer.blender.org/p/InfiniteX808"
 "https://developer.blender.org/p/LucaRood"
  
