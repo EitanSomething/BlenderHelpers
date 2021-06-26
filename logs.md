@@ -10,6 +10,3 @@
 "https://developer.blender.org/p/BelsoftDesign"
 "https://developer.blender.org/p/novoge3689"
  
-"https://developer.blender.org/p/BelsoftDesign"
-"https://developer.blender.org/p/senantiasa"
- 
