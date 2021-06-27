@@ -18,7 +18,3 @@
 "https://developer.blender.org/p/LucaRood"
 "https://developer.blender.org/p/irowdyrathore"
  
-"https://developer.blender.org/p/daveking"
-"https://developer.blender.org/p/InfiniteX808"
-"https://developer.blender.org/p/LucaRood"
- 
