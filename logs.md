@@ -17,8 +17,6 @@
 "https://developer.blender.org/p/daveking"
 "https://developer.blender.org/p/LucaRood"
 "https://developer.blender.org/p/irowdyrathore"
- 
 "https://developer.blender.org/p/Promosyoncantaimalatcilari"
 "https://developer.blender.org/p/MaxIT"
-"https://developer.blender.org/p/irowdyrathore"
  
