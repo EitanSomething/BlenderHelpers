@@ -19,6 +19,5 @@
 "https://developer.blender.org/p/irowdyrathore"
 "https://developer.blender.org/p/Promosyoncantaimalatcilari"
 "https://developer.blender.org/p/MaxIT"
- 
 "https://developer.blender.org/p/cristinaparker"
  
