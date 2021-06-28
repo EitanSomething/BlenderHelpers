@@ -20,4 +20,3 @@
 "https://developer.blender.org/p/Promosyoncantaimalatcilari"
 "https://developer.blender.org/p/MaxIT"
  
- 
