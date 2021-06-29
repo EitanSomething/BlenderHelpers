@@ -4,7 +4,6 @@
 "https://developer.blender.org/p/shreyag"
 "https://developer.blender.org/p/acadgamesap"
 "https://developer.blender.org/p/MilesKitaro"
- 
 "https://developer.blender.org/p/jayantaacharya"
 "https://developer.blender.org/p/alexahil"
 "https://developer.blender.org/p/EAW"
