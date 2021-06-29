@@ -12,3 +12,6 @@
 "https://developer.blender.org/p/nikokoop"
 "https://developer.blender.org/p/anadahansa"
  
+"https://developer.blender.org/p/nikokoop"
+"https://developer.blender.org/p/MilesKitaro"
+ 
