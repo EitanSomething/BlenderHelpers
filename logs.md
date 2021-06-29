@@ -12,10 +12,7 @@
 "https://developer.blender.org/p/nikokoop"
 "https://developer.blender.org/p/anadahansa"
 "https://developer.blender.org/p/MilesKitaro"
- 
 "https://developer.blender.org/p/samhatter"
 "https://developer.blender.org/p/shreyag"
 "https://developer.blender.org/p/acadgamesap"
-"https://developer.blender.org/p/anadahansa"
-"https://developer.blender.org/p/MilesKitaro"
  
