@@ -8,6 +8,3 @@
 "https://developer.blender.org/p/alexahil"
 "https://developer.blender.org/p/EAW"
  
-"https://developer.blender.org/p/alexahil"
-"https://developer.blender.org/p/EAW"
- 
