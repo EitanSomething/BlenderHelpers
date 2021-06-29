@@ -16,3 +16,9 @@
 "https://developer.blender.org/p/shreyag"
 "https://developer.blender.org/p/acadgamesap"
  
+"https://developer.blender.org/p/jacevayen"
+"https://developer.blender.org/p/shreyag"
+"https://developer.blender.org/p/acadgamesap"
+"https://developer.blender.org/p/anadahansa"
+"https://developer.blender.org/p/MilesKitaro"
+ 
