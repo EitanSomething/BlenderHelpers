@@ -48,6 +48,7 @@ def get_user_urls():
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/p/" + phab_data["fields"]["username"]
             disabled = phab_data["fields"]["isDisabled"]
+            print(disabled)
             if not disabled:
                 if data not in f.read():
                     if data not in safe.read():
