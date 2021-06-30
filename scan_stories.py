@@ -40,16 +40,13 @@ def get_user_urls():
     while len(user_queue) > 0:
         ln = min(len(user_queue), LIMIT)
         user_data = phab.user.search(
-            constraints={"phids": user_queue[:ln]}, limit=LIMIT)
+            constraints={"phids": user_queue[:ln], "isDisabled": False}, limit=LIMIT)
         user_queue = user_queue[ln:]
         f = open("logs.md", "r")
         safe = open("safe.md", "r")
 
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/p/" + phab_data["fields"]["username"]
-            disabled = phab_data["fields"]["isDisabled"]
-            if not disabled:
-                print("disabled")
             if data not in f.read():
                 if data not in safe.read():
                     print(json.dumps(data))
