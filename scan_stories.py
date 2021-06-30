@@ -47,6 +47,9 @@ def get_user_urls():
 
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/p/" + phab_data["fields"]["username"]
+            disabled = phab_data["fields"]["isDisabled"]
+            if not disabled:
+                print("disabled")
             if data not in f.read():
                 if data not in safe.read():
                     print(json.dumps(data))
@@ -57,6 +60,6 @@ if __name__ == '__main__':
     setup_phab()
     fetch_new_items()
     filter_stories()
-    # get_user_urls()
+    get_user_urls()
     # Make sure there's always something to commit.
     print(" ")
