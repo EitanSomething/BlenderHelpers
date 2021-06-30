@@ -29,9 +29,6 @@ def filter_stories():
     for story in stories.values():
         if "transactionPHIDs" not in story["data"]:
             continue
-        if not story["data"]["isDisabled"]:
-            print("Disabled")
-            continue
         if story["authorPHID"] == story["data"]["objectPHID"]:
             transactionPHID = list(story["data"]["transactionPHIDs"].keys())[0]
             if "PHID-XACT-USER" in transactionPHID:
@@ -50,9 +47,11 @@ def get_user_urls():
 
         for phab_data in user_data["data"]:
             data = "https://developer.blender.org/p/" + phab_data["fields"]["username"]
-            if data not in f.read():
-                if data not in safe.read():
-                    print(json.dumps(data))
+            disabled = phab_data["fields"]["isDisabled"]
+            if not disabled:
+                if data not in f.read():
+                    if data not in safe.read():
+                        print(json.dumps(data))
         time.sleep(6)
 
 
