@@ -2,3 +2,8 @@
 "https://developer.blender.org/p/livelyt"
 "https://developer.blender.org/p/inkanaffa"
  
+"https://developer.blender.org/p/sanjaux"
+"https://developer.blender.org/p/santana"
+"https://developer.blender.org/p/jennyterrzo"
+"https://developer.blender.org/p/inkanaffa"
+ 
