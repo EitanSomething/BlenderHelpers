@@ -7,5 +7,3 @@
 "https://developer.blender.org/p/pahlawan"
 "https://developer.blender.org/p/softwaretr"
  
-"https://developer.blender.org/p/pahlawan"
- 
