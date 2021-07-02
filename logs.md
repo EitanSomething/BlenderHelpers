@@ -5,7 +5,5 @@
 "https://developer.blender.org/p/santana"
 "https://developer.blender.org/p/jennyterrzo"
 "https://developer.blender.org/p/pahlawan"
- 
 "https://developer.blender.org/p/softwaretr"
-"https://developer.blender.org/p/pahlawan"
  
