@@ -11,5 +11,3 @@
 "https://developer.blender.org/p/toysanookvip"
 "https://developer.blender.org/p/iouzzr"
  
-"https://developer.blender.org/p/iouzzr"
- 
