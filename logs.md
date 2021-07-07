@@ -4,6 +4,3 @@
 "https://developer.blender.org/p/curlsncurve"
 "https://developer.blender.org/p/harrywilliamtask"
  
-"https://developer.blender.org/p/curlsncurve"
-"https://developer.blender.org/p/nirafinance"
- 
