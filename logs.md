@@ -8,6 +8,3 @@
 "https://developer.blender.org/p/elpasopressurewash"
 "https://developer.blender.org/p/teio"
  
-"https://developer.blender.org/p/reenukasharma45"
-"https://developer.blender.org/p/teio"
- 
