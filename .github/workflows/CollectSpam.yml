@@ -36,12 +36,14 @@ jobs:
         git fetch
         git checkout auto_commits
         git pull origin auto_commits --rebase
-       
+        echo " "  >> logs.md
+        git add logs.md
+        git commit -m "Add logs file"
         python scan_stories.py >> logs.md
         git add logs.md
         git commit -m "$(date)"
         python dedup.py
-        echo " "  >> logs.md
+       
         git add logs.md
         git add __pycache__/sched_feed.cpython-39.pyc
         git add __pycache__/sched_user.cpython-39.pyc
