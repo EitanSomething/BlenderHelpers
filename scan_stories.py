@@ -38,7 +38,10 @@ def filter_stories():
 def get_user_urls():
 
    
-    open("logs.md", 'a+').close()
+    f = open("logs.md, 'a+')  
+    # open file in append mode
+    f.write('')
+    f.close()
     global user_queue, phab
     while len(user_queue) > 0:
         ln = min(len(user_queue), LIMIT)
