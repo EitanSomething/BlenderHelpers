@@ -38,7 +38,7 @@ def filter_stories():
 def get_user_urls():
 
     if not os.path.exists("longs.md"):
-       open("logs.md", 'w').close()
+       open("logs.md", 'a+').close()
     global user_queue, phab
     while len(user_queue) > 0:
         ln = min(len(user_queue), LIMIT)
