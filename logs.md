@@ -3,6 +3,3 @@
 "https://developer.blender.org/p/aurorastella"
 "https://developer.blender.org/p/Digitalmarketing"
 "https://developer.blender.org/p/victoriagracea"
- 
-"https://developer.blender.org/p/victoriagracea"
- 
