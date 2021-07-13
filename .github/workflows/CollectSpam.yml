@@ -28,19 +28,6 @@ jobs:
     - name: Get phab library etc
       run: |
           pip install phabricator
-    - name: Add log
-      run: |
-
-        git config --global user.email "eitant13@gmail.com"
-        git config --global user.name EitanSomething
-        git fetch
-        git checkout auto_commits
-        git pull origin auto_commits --rebase
-        touch logs.md
-        git add logs.md
-        git commit -m "Add logs"   
-        git push origin HEAD:auto_commits
-
     - name: Run the script
       run: |
 
@@ -51,9 +38,6 @@ jobs:
         git pull origin auto_commits --rebase
         git add logs.md
         python scan_stories.py >> logs.md
-
-       
-
         git commit -m "$(date)"
         python dedup.py
         echo " "  >> logs.md
