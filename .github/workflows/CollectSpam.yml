@@ -39,6 +39,9 @@ jobs:
         git add logs.md
         git commit -m "Add logs"       
         python scan_stories.py >> logs.md
+
+        git add logs.md
+
         git commit -m "$(date)"
         python dedup.py
         echo " "  >> logs.md
