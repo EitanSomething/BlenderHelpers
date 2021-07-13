@@ -36,7 +36,11 @@ jobs:
         git checkout auto_commits
         git pull origin auto_commits --rebase
         git add logs.md
+
         git commit -m "Add logs"
+
+        git push origin HEAD:auto_commits
+       
         python scan_stories.py >> logs.md
         git commit -m "$(date)"
         python dedup.py
