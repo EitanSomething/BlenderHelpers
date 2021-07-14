@@ -12,7 +12,3 @@
 "https://developer.blender.org/p/taylorjohnson"
 "https://developer.blender.org/p/baselinedental"
 "https://developer.blender.org/p/justincarlos"
- 
-"https://developer.blender.org/p/baselinedental"
-"https://developer.blender.org/p/taylorjohnson"
- 
