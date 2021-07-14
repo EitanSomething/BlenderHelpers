@@ -10,3 +10,7 @@
 "https://developer.blender.org/p/arhamtechnosoft"
 "https://developer.blender.org/p/jasonwardan1"
  
+"https://developer.blender.org/p/jasonwardan1"
+"https://developer.blender.org/p/typemqqn"
+"https://developer.blender.org/p/jordansmith389"
+ 
