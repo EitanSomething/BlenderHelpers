@@ -3,7 +3,4 @@
 "https://developer.blender.org/p/developersstudio"
 "https://developer.blender.org/p/iranflights"
 "https://developer.blender.org/p/ronthomsoncc"
- 
 "https://developer.blender.org/p/kumarsobhit080"
-"https://developer.blender.org/p/ronthomsoncc"
- 
