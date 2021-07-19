@@ -44,7 +44,7 @@ def get_user_urls():
         ln = min(len(user_queue), LIMIT)
         user_data = phab.user.search(
             constraints={"phids": user_queue[:ln], "isDisabled": False}, limit=LIMIT)
-        
+        user_queue = user_queue[:ln]
         f = open("logs.md", "r")
         safe = open("safe.md", "r")
 
