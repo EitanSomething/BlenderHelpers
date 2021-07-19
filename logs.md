@@ -3,3 +3,5 @@
 "https://developer.blender.org/p/kgalaxyrose"
 "https://developer.blender.org/p/Chatterr-Chatbot/"
  
+"https://developer.blender.org/p/Chatterr-Chatbot"
+ 
