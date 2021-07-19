@@ -43,7 +43,7 @@ def get_user_urls():
     while len(user_queue) > 0:
         ln = min(len(user_queue), LIMIT)
         user_data = phab.user.search(
-            constraints={"phids": user_queue[:ln], "isDisabled": False}, limit=LIMIT)
+            constraints={"phids": set(user_queue), "isDisabled": False}, limit=LIMIT)
         user_queue = user_queue[ln:]
         f = open("logs.md", "r")
         safe = open("safe.md", "r")
