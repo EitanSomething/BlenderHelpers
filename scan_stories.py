@@ -7,7 +7,7 @@ import json
 LIMIT = 100
 phab = None
 stories = dict()
-user_queue: typing.List[str] = []
+user_queue: typing.Set[str] = set()
 
 
 def setup_phab():
@@ -32,7 +32,7 @@ def filter_stories():
         if story["authorPHID"] == story["data"]["objectPHID"]:
             transactionPHID = list(story["data"]["transactionPHIDs"].keys())[0]
             if "PHID-XACT-USER" in transactionPHID:
-                user_queue.append(story["authorPHID"])
+                user_queue.update(story["authorPHID"])
 
 
 def get_user_urls():
