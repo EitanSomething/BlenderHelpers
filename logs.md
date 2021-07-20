@@ -5,5 +5,3 @@
 "https://developer.blender.org/p/Chatterr-Chatbot"
 "https://developer.blender.org/p/bLight"
 "https://developer.blender.org/p/mindmingles"
- 
- 
