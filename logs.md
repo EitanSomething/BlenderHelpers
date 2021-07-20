@@ -4,7 +4,3 @@
 "https://developer.blender.org/p/elschilling"
 "https://developer.blender.org/p/aaravsharma"
 "https://developer.blender.org/p/Merritt"
- 
-"https://developer.blender.org/p/Merritt"
-"https://developer.blender.org/p/elschilling"
- 
