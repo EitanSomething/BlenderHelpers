@@ -5,3 +5,7 @@
 "https://developer.blender.org/p/aaravsharma"
 "https://developer.blender.org/p/Merritt"
  
+"https://developer.blender.org/p/justnews"
+"https://developer.blender.org/p/Merritt"
+"https://developer.blender.org/p/elschilling"
+ 
