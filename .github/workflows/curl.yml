@@ -13,5 +13,5 @@ jobs:
     steps:
     - name: Curl
       run: |
-        curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "JHczM9AcSQquggvxj", "msg": "@ideasman42 Potential Spam. Not everything on the list is spam. https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md" }}'
+        curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "9p9NPvT7yFseE8ivA", "msg": "@ideasman42 Potential Spam. Not everything on the list is spam. https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md" }}'
         
