@@ -6,3 +6,9 @@
 "https://developer.blender.org/p/JasmineHope"
 "https://developer.blender.org/p/EliseWatson"
  
+"https://developer.blender.org/p/KeiraBaker"
+"https://developer.blender.org/p/AliceBates"
+"https://developer.blender.org/p/JasmineHope"
+"https://developer.blender.org/p/EliseWatson"
+"https://developer.blender.org/p/Shopppain"
+ 
