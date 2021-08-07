@@ -10,9 +10,4 @@
 "https://developer.blender.org/p/ahsanlearningshala"
 "https://developer.blender.org/p/Alldayplus"
 "https://developer.blender.org/p/cheapestbroker"
- 
 "https://developer.blender.org/p/michaelruge123"
-"https://developer.blender.org/p/cheapestbroker"
-"https://developer.blender.org/p/Alldayplus"
-"https://developer.blender.org/p/ahsanlearningshala"
- 
