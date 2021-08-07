@@ -8,7 +8,4 @@
 "https://developer.blender.org/p/henryjoe"
 "https://developer.blender.org/p/Sphynxcolt"
 "https://developer.blender.org/p/ahsanlearningshala"
- 
 "https://developer.blender.org/p/Alldayplus"
-"https://developer.blender.org/p/ahsanlearningshala"
- 
