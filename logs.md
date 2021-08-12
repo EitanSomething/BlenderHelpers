@@ -8,7 +8,5 @@
 "https://developer.blender.org/p/bhavesh38"
 "https://developer.blender.org/p/mdifakoor"
 "https://developer.blender.org/p/Zad"
- 
 "https://developer.blender.org/p/charlibilson"
 "https://developer.blender.org/p/DianeVasquez"
- 
