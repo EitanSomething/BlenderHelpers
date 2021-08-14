@@ -3,8 +3,4 @@
 "https://developer.blender.org/p/deluxtoys"
 "https://developer.blender.org/p/yuuki99"
 "https://developer.blender.org/p/emmastone99"
- 
 "https://developer.blender.org/p/liosmith90"
-"https://developer.blender.org/p/emmastone99"
-"https://developer.blender.org/p/yuuki99"
- 
