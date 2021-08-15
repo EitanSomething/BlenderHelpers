@@ -6,3 +6,6 @@
 "https://developer.blender.org/p/liosmith90"
 "https://developer.blender.org/p/finnrobinanders"
  
+"https://developer.blender.org/p/liosmith90"
+"https://developer.blender.org/p/emmastone99"
+ 
