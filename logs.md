@@ -7,6 +7,3 @@
 "https://developer.blender.org/p/finnrobinanders"
 "https://developer.blender.org/p/diennhetht"
 "https://developer.blender.org/p/arzdigital"
- 
-"https://developer.blender.org/p/diennhetht"
- 
