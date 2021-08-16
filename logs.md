@@ -3,6 +3,3 @@
 "https://developer.blender.org/p/JuneMclaughlin"
 "https://developer.blender.org/p/blogsinformation"
 "https://developer.blender.org/p/gustavwiz"
- 
-"https://developer.blender.org/p/gustavwiz"
- 
