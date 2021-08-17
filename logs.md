@@ -6,3 +6,6 @@
 "https://developer.blender.org/p/misskolkata4u"
 "https://developer.blender.org/p/Alexsmith"
  
+"https://developer.blender.org/p/chandru112"
+"https://developer.blender.org/p/robinsondsouza"
+ 
