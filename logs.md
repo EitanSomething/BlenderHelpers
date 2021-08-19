@@ -3,3 +3,6 @@
 "https://developer.blender.org/p/IsabelleFoster"
 "https://developer.blender.org/p/cherielutz"
  
+"https://developer.blender.org/p/IsabelleFoster"
+"https://developer.blender.org/p/sebcorne"
+ 
