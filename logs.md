@@ -3,7 +3,4 @@
 "https://developer.blender.org/p/floraferon9497"
 "https://developer.blender.org/p/AmandaJones"
 "https://developer.blender.org/p/odnobrovets"
- 
 "https://developer.blender.org/p/nimakrikken"
-"https://developer.blender.org/p/odnobrovets"
- 
