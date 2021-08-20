@@ -1,8 +1,0 @@
-"https://developer.blender.org/p/loridukker"
-"https://developer.blender.org/p/marisevijgen"
-"https://developer.blender.org/p/IsabelleFoster"
-"https://developer.blender.org/p/cherielutz"
-"https://developer.blender.org/p/sebcorne"
-"https://developer.blender.org/p/Vector_Impulse"
-"https://developer.blender.org/p/Kiaralinders9497"
-"https://developer.blender.org/p/Henrywalker9812"
