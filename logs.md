@@ -12,5 +12,3 @@
 "https://developer.blender.org/p/claudio10x"
 "https://developer.blender.org/p/Rizhibelt"
 "https://developer.blender.org/p/Pickle"
- 
- 
