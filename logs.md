@@ -10,5 +10,3 @@
 "https://developer.blender.org/p/wavesst"
 "https://developer.blender.org/p/dirooriginal"
 "https://developer.blender.org/p/claudio10x"
- 
- 
