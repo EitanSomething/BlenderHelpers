@@ -53,6 +53,7 @@ def get_user_urls():
             if data not in f.read():
                 if data not in safe.read():
                     print(json.dumps(data))
+                    print("\n")
         time.sleep(6)
 
 
