@@ -15,6 +15,4 @@
 "https://developer.blender.org/p/avnis2423"
 "https://developer.blender.org/p/Chris247"
 "https://developer.blender.org/p/jessescheffers321"
- 
 "https://developer.blender.org/p/dritikaur"
- 
