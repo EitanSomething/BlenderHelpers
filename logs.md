@@ -16,14 +16,3 @@
 
 "https://developer.blender.org/p/csharptutslv"
 
- 
-"https://developer.blender.org/p/csharptutslv"
-
-
-"https://developer.blender.org/p/LeslieErickson"
-
-
-"https://developer.blender.org/p/urko3d"
-
-
- 
