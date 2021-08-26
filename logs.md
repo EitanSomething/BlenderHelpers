@@ -18,3 +18,13 @@
 
 "https://developer.blender.org/p/Vershasharmahy43"
  
+"https://developer.blender.org/p/devmack02"
+
+
+"https://developer.blender.org/p/boweri7447"
+
+
+"https://developer.blender.org/p/csharptutslv"
+
+
+ 
