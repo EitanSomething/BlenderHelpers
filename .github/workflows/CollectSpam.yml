@@ -24,7 +24,6 @@ jobs:
           git clone https://github.com/phacility/arcanist.git
           touch ~/.arcrc
           echo '{"hosts": {"https://developer.blender.org/api/": {"token": "${{ secrets.CONDUIT }}"}}}' > ~/.arcrc
-          cat ~/.arcrc
     - name: Get phab library etc
       run: |
           pip install phabricator
