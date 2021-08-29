@@ -10,11 +10,3 @@
 
 "https://developer.blender.org/p/thenashhouston"
 
- 
-"https://developer.blender.org/p/csptechnologies"
-
-
-"https://developer.blender.org/p/captainfrost"
-
-
- 
