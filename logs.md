@@ -2,8 +2,3 @@
 
 "https://developer.blender.org/p/Vova12zx"
 
- 
-"https://developer.blender.org/p/Vova12zx"
-
-
- 
