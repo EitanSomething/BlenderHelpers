@@ -6,14 +6,5 @@
 
 "https://developer.blender.org/p/kdrive"
 
- 
 "https://developer.blender.org/p/iaian7"
 
-
-"https://developer.blender.org/p/dorispierse"
-
-
-"https://developer.blender.org/p/kdrive"
-
-
- 
