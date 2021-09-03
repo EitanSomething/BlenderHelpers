@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/spearit"
 
- 
-"https://developer.blender.org/p/iaian7"
-
-
- 
