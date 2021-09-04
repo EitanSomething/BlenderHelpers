@@ -2,14 +2,5 @@
 
 "https://developer.blender.org/p/stylegods"
 
- 
 "https://developer.blender.org/p/Mindtrek.ca"
 
-
-"https://developer.blender.org/p/stylegods"
-
-
-"https://developer.blender.org/p/callgirlsinamritsa"
-
-
- 
