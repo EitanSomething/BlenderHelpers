@@ -44,8 +44,6 @@ jobs:
         python dedup.py
        
         git add logs.md
-        git add __pycache__/sched_feed.cpython-39.pyc
-        git add __pycache__/sched_user.cpython-39.pyc
-        git add __pycache__/setup.cpython-39.pyc
+       
         git commit -m "dedup $(date)"
         git push origin HEAD:auto_commits
