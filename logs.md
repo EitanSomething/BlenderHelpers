@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/drtattoo"
 
- 
-"https://developer.blender.org/p/mymooverswerribee"
-
-
- 
