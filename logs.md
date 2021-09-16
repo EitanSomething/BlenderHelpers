@@ -12,20 +12,5 @@
 
 "https://developer.blender.org/p/NumOpen"
 
- 
 "https://developer.blender.org/p/aidenbutler"
 
-
-"https://developer.blender.org/p/janefraser"
-
-
-"https://developer.blender.org/p/Robert561"
-
-
-"https://developer.blender.org/p/nicolebennet71"
-
-
-"https://developer.blender.org/p/NumOpen"
-
-
- 
