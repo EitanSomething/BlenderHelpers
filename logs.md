@@ -2,8 +2,5 @@
 
 "https://developer.blender.org/p/chatrbam"
 
- 
 "https://developer.blender.org/p/loolebazkoni"
 
-
- 
