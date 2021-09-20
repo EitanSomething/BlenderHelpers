@@ -6,8 +6,3 @@
 
 "https://developer.blender.org/p/simonthommes"
 
- 
-"https://developer.blender.org/p/simonthommes"
-
-
- 
