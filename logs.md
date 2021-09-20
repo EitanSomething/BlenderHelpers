@@ -8,11 +8,3 @@
 
 "https://developer.blender.org/p/officekey007"
 
- 
-"https://developer.blender.org/p/officekey007"
-
-
-"https://developer.blender.org/p/jupantini"
-
-
- 
