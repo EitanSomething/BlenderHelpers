@@ -14,23 +14,9 @@
 
 "https://developer.blender.org/p/nishananibha"
 
- 
 "https://developer.blender.org/p/billyhank"
-
 
 "https://developer.blender.org/p/Emmaketh"
 
-
 "https://developer.blender.org/p/norawatson"
 
-
-"https://developer.blender.org/p/onlinetyping"
-
-
-"https://developer.blender.org/p/mackzayn27"
-
-
-"https://developer.blender.org/p/nishananibha"
-
-
- 
