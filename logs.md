@@ -10,11 +10,5 @@
 
 "https://developer.blender.org/p/gfxcoder"
 
- 
 "https://developer.blender.org/p/JoshuaHaines"
 
-
-"https://developer.blender.org/p/RoyTheKoi"
-
-
- 
