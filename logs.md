@@ -7,3 +7,10 @@
 "https://developer.blender.org/p/rotoglup"
 
  
+"https://developer.blender.org/p/RoyTheKoi"
+
+
+"https://developer.blender.org/p/gfxcoder"
+
+
+ 
