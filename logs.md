@@ -6,17 +6,7 @@
 
 "https://developer.blender.org/p/haroldmehta"
 
- 
 "https://developer.blender.org/p/cialis_e_ipertensione"
-
 
 "https://developer.blender.org/p/monkeymadeit"
 
-
-"https://developer.blender.org/p/haroldmehta"
-
-
-"https://developer.blender.org/p/richardsgovan"
-
-
- 
