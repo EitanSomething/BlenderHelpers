@@ -8,17 +8,7 @@
 
 "https://developer.blender.org/p/calvinkneal"
 
- 
 "https://developer.blender.org/p/peterqpowell"
-
 
 "https://developer.blender.org/p/ExamsHero"
 
-
-"https://developer.blender.org/p/calvinkneal"
-
-
-"https://developer.blender.org/p/jecissajones"
-
-
- 
