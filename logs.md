@@ -2,8 +2,5 @@
 
 "https://developer.blender.org/p/jerryparker"
 
- 
 "https://developer.blender.org/p/richardsgovan"
 
-
- 
