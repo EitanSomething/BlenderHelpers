@@ -12,8 +12,5 @@
 
 "https://developer.blender.org/p/ExamsHero"
 
- 
 "https://developer.blender.org/p/victorkhoward"
 
-
- 
