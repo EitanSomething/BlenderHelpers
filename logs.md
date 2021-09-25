@@ -23,3 +23,31 @@
 "https://developer.blender.org/p/fireart"
 
  
+"https://developer.blender.org/p/amogue"
+
+
+"https://developer.blender.org/p/robertthorn"
+
+
+"https://developer.blender.org/p/irvinkelley"
+
+
+"https://developer.blender.org/p/astrotaxi"
+
+
+"https://developer.blender.org/p/fireart"
+
+
+"https://developer.blender.org/p/flackflores"
+
+
+"https://developer.blender.org/p/Shanejohnson"
+
+
+"https://developer.blender.org/p/tracywilliams"
+
+
+"https://developer.blender.org/p/freddydecker"
+
+
+ 
