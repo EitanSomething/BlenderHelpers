@@ -20,14 +20,3 @@
 
 "https://developer.blender.org/p/Shanejohnson"
 
- 
-"https://developer.blender.org/p/Shanejohnson"
-
-
-"https://developer.blender.org/p/tracywilliams"
-
-
-"https://developer.blender.org/p/freddydecker"
-
-
- 
