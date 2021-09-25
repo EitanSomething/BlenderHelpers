@@ -12,8 +12,5 @@
 
 "https://developer.blender.org/p/KawaneRio"
 
- 
 "https://developer.blender.org/p/freddydecker"
 
-
- 
