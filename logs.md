@@ -36,32 +36,3 @@
 
 "https://developer.blender.org/p/williamnoahs"
 
- 
-"https://developer.blender.org/p/williamnoahs"
-
-
-"https://developer.blender.org/p/gripstripit"
-
-
-"https://developer.blender.org/p/amogue"
-
-
-"https://developer.blender.org/p/robertthorn"
-
-
-"https://developer.blender.org/p/irvinkelley"
-
-
-"https://developer.blender.org/p/astrotaxi"
-
-
-"https://developer.blender.org/p/fireart"
-
-
-"https://developer.blender.org/p/flackflores"
-
-
-"https://developer.blender.org/p/Shanejohnson"
-
-
- 
