@@ -39,3 +39,19 @@
 "https://developer.blender.org/p/denara"
 
  
+"https://developer.blender.org/p/darrinkduffy"
+
+
+"https://developer.blender.org/p/williamnoahs"
+
+
+"https://developer.blender.org/p/gripstripit"
+
+
+"https://developer.blender.org/p/amogue"
+
+
+"https://developer.blender.org/p/robertthorn"
+
+
+ 
