@@ -40,11 +40,5 @@
 
 "https://developer.blender.org/p/maybomcapnuoc"
 
- 
-"https://developer.blender.org/p/denara"
-
-
 "https://developer.blender.org/p/Raimund58"
 
-
- 
