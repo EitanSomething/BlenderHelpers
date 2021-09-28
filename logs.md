@@ -27,3 +27,10 @@
 "https://developer.blender.org/p/AmbientUnocclusion"
 
  
+"https://developer.blender.org/p/shanicrack"
+
+
+"https://developer.blender.org/p/sslcrack"
+
+
+ 
