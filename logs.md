@@ -10,11 +10,7 @@
 
 "https://developer.blender.org/p/goriloves"
 
- 
 "https://developer.blender.org/p/vaidyatapesh"
-
 
 "https://developer.blender.org/p/scrumdumps"
 
-
- 
