@@ -8,17 +8,5 @@
 
 "https://developer.blender.org/p/RobertButton"
 
- 
 "https://developer.blender.org/p/goriloves"
 
-
-"https://developer.blender.org/p/RobertButton"
-
-
-"https://developer.blender.org/p/peterparker0198"
-
-
-"https://developer.blender.org/p/angularjsindia"
-
-
- 
