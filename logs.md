@@ -8,11 +8,3 @@
 
 "https://developer.blender.org/p/DaDarkDragon"
 
- 
-"https://developer.blender.org/p/dariusreviews"
-
-
-"https://developer.blender.org/p/wilberhoffman"
-
-
- 
