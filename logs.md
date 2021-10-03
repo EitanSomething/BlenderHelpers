@@ -8,8 +8,3 @@
 
 "https://developer.blender.org/p/DaDarkDragon"
 
- 
-"https://developer.blender.org/p/dariusreviews"
-
-
- 
