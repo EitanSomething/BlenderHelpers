@@ -2,17 +2,7 @@
 
 "https://developer.blender.org/p/Amudtogal"
 
- 
 "https://developer.blender.org/p/sippibehl"
-
-
-"https://developer.blender.org/p/careprost"
-
 
 "https://developer.blender.org/p/ktdfly"
 
-
-"https://developer.blender.org/p/Amudtogal"
-
-
- 
