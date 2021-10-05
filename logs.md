@@ -10,8 +10,5 @@
 
 "https://developer.blender.org/p/hamiz000"
 
- 
 "https://developer.blender.org/p/keatingdentallab"
 
-
- 
