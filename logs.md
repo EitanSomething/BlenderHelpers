@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/JordanWolf"
 
- 
-"https://developer.blender.org/p/JordanWolf"
-
-
- 
