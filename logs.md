@@ -8,14 +8,3 @@
 
 "https://developer.blender.org/p/deltaairlinesreservations"
 
- 
-"https://developer.blender.org/p/seemav11"
-
-
-"https://developer.blender.org/p/dougbarnes"
-
-
-"https://developer.blender.org/p/kalosaaesthetics"
-
-
- 
