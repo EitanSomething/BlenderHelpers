@@ -2,8 +2,5 @@
 
 "https://developer.blender.org/p/ashmitarathore457"
 
- 
 "https://developer.blender.org/p/yanp12345"
 
-
- 
