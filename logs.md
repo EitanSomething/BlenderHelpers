@@ -6,8 +6,3 @@
 
 "https://developer.blender.org/p/neodumps"
 
- 
-"https://developer.blender.org/p/kepribadian"
-
-
- 
