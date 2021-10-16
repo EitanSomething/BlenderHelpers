@@ -16,11 +16,5 @@
 
 "https://developer.blender.org/p/techginius"
 
- 
 "https://developer.blender.org/p/ascincpcb"
 
-
-"https://developer.blender.org/p/techginius"
-
-
- 
