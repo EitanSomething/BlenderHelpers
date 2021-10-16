@@ -14,11 +14,5 @@
 
 "https://developer.blender.org/p/soultatva"
 
- 
 "https://developer.blender.org/p/techginius"
 
-
-"https://developer.blender.org/p/soultatva"
-
-
- 
