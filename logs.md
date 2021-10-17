@@ -22,8 +22,3 @@
 
 "https://developer.blender.org/p/playstore"
 
- 
-"https://developer.blender.org/p/Archivist15"
-
-
- 
