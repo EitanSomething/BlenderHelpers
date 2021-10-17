@@ -24,8 +24,3 @@
 
 "https://developer.blender.org/p/DennisVelasquez"
 
- 
-"https://developer.blender.org/p/playstore"
-
-
- 
