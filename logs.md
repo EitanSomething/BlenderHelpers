@@ -6,11 +6,5 @@
 
 "https://developer.blender.org/p/MoralezM"
 
- 
 "https://developer.blender.org/p/Chou-Vieux"
 
-
-"https://developer.blender.org/p/Alumx"
-
-
- 
