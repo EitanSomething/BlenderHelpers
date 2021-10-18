@@ -2,8 +2,3 @@
 
 "https://developer.blender.org/p/Allen_Mayer"
 
- 
-"https://developer.blender.org/p/pikhosh"
-
-
- 
