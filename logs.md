@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/Chou-Vieux"
 
- 
 "https://developer.blender.org/p/taxconsult"
 
-
- 
