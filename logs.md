@@ -10,8 +10,5 @@
 
 "https://developer.blender.org/p/taxconsult"
 
- 
 "https://developer.blender.org/p/pateldivya"
 
-
- 
