@@ -18,11 +18,5 @@
 
 "https://developer.blender.org/p/donnyvan889"
 
- 
-"https://developer.blender.org/p/donnyvan889"
-
-
 "https://developer.blender.org/p/Jellby"
 
-
- 
