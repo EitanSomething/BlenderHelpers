@@ -10,11 +10,5 @@
 
 "https://developer.blender.org/p/daviddomingues_"
 
- 
 "https://developer.blender.org/p/fomakinyaev"
 
-
-"https://developer.blender.org/p/daviddomingues_"
-
-
- 
