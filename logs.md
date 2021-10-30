@@ -6,14 +6,5 @@
 
 "https://developer.blender.org/p/DiMeh"
 
- 
 "https://developer.blender.org/p/RIORAO"
 
-
-"https://developer.blender.org/p/DiMeh"
-
-
-"https://developer.blender.org/p/Lillya"
-
-
- 
