@@ -16,8 +16,3 @@
 
 "https://developer.blender.org/p/itsNYD3LL"
 
- 
-"https://developer.blender.org/p/mysticaldragoon01"
-
-
- 
