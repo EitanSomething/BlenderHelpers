@@ -14,17 +14,7 @@
 
 "https://developer.blender.org/p/Redrodespo"
 
- 
 "https://developer.blender.org/p/ambikasharma4574"
-
 
 "https://developer.blender.org/p/vajinadaraltma"
 
-
-"https://developer.blender.org/p/grossrussell"
-
-
-"https://developer.blender.org/p/Redrodespo"
-
-
- 
