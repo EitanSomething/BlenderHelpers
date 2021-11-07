@@ -10,11 +10,3 @@
 
 "https://developer.blender.org/p/ashmitarathoreasd"
 
- 
-"https://developer.blender.org/p/lexiholly317"
-
-
-"https://developer.blender.org/p/saifcrack75"
-
-
- 
