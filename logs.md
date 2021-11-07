@@ -8,14 +8,3 @@
 
 "https://developer.blender.org/p/lexiholly317"
 
- 
-"https://developer.blender.org/p/saifcrack75"
-
-
-"https://developer.blender.org/p/hamptonshome"
-
-
-"https://developer.blender.org/p/Infinix"
-
-
- 
