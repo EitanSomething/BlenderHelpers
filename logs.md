@@ -12,11 +12,3 @@
 
 "https://developer.blender.org/p/sebbas"
 
- 
-"https://developer.blender.org/p/lexiholly317"
-
-
-"https://developer.blender.org/p/sebbas"
-
-
- 
