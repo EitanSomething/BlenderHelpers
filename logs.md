@@ -12,8 +12,3 @@
 
 "https://developer.blender.org/p/sebbas"
 
- 
-"https://developer.blender.org/p/sebbas"
-
-
- 
