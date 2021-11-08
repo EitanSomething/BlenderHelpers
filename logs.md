@@ -12,17 +12,7 @@
 
 "https://developer.blender.org/p/sebbas"
 
- 
 "https://developer.blender.org/p/realignspine"
-
 
 "https://developer.blender.org/p/Lagonazer"
 
-
-"https://developer.blender.org/p/ashmitarathoreasd"
-
-
-"https://developer.blender.org/p/sebbas"
-
-
- 
