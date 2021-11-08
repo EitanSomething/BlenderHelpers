@@ -18,23 +18,7 @@
 
 "https://developer.blender.org/p/impacman"
 
- 
 "https://developer.blender.org/p/veersen"
-
 
 "https://developer.blender.org/p/williemmiller"
 
-
-"https://developer.blender.org/p/realignspine"
-
-
-"https://developer.blender.org/p/Lagonazer"
-
-
-"https://developer.blender.org/p/impacman"
-
-
-"https://developer.blender.org/p/sebbas"
-
-
- 
