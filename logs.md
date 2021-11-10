@@ -2,11 +2,5 @@
 
 "https://developer.blender.org/p/bdresultjob"
 
- 
 "https://developer.blender.org/p/winddytiarra"
 
-
-"https://developer.blender.org/p/bdresultjob"
-
-
- 
