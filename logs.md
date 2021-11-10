@@ -4,11 +4,3 @@
 
 "https://developer.blender.org/p/winddytiarra"
 
- 
-"https://developer.blender.org/p/winddytiarra"
-
-
-"https://developer.blender.org/p/bdresultjob"
-
-
- 
