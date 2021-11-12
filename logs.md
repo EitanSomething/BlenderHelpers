@@ -18,11 +18,3 @@
 
 "https://developer.blender.org/p/BellaCallen"
 
- 
-"https://developer.blender.org/p/RealJayJobes"
-
-
-"https://developer.blender.org/p/TobiasH"
-
-
- 
