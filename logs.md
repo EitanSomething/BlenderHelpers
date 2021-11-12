@@ -16,20 +16,3 @@
 
 "https://developer.blender.org/p/TobiasH"
 
- 
-"https://developer.blender.org/p/hastencleanse"
-
-
-"https://developer.blender.org/p/globalcfs4"
-
-
-"https://developer.blender.org/p/emiraticoffee"
-
-
-"https://developer.blender.org/p/RealJayJobes"
-
-
-"https://developer.blender.org/p/TobiasH"
-
-
- 
