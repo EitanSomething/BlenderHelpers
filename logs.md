@@ -10,17 +10,5 @@
 
 "https://developer.blender.org/p/code-brew-labs"
 
- 
-"https://developer.blender.org/p/code-brew-labs"
-
-
-"https://developer.blender.org/p/tania111"
-
-
-"https://developer.blender.org/p/ashstar"
-
-
 "https://developer.blender.org/p/kiriri"
 
-
- 
