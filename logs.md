@@ -9,3 +9,10 @@
 "https://developer.blender.org/p/carolstewart700"
 
  
+"https://developer.blender.org/p/bravoblinds01"
+
+
+"https://developer.blender.org/p/advancedattribution"
+
+
+ 
