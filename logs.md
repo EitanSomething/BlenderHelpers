@@ -12,14 +12,5 @@
 
 "https://developer.blender.org/p/advancedattribution"
 
- 
 "https://developer.blender.org/p/uniqstone23"
 
-
-"https://developer.blender.org/p/bravoblinds01"
-
-
-"https://developer.blender.org/p/advancedattribution"
-
-
- 
