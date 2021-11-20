@@ -6,8 +6,5 @@
 
 "https://developer.blender.org/p/deepprostore"
 
- 
 "https://developer.blender.org/p/jside"
 
-
- 
