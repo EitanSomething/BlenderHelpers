@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/pay4essay"
 
- 
 "https://developer.blender.org/p/HWWO"
 
-
- 
