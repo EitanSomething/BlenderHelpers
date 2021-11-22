@@ -14,17 +14,5 @@
 
 "https://developer.blender.org/p/DonaldVega"
 
- 
 "https://developer.blender.org/p/Allassignmenthelp"
 
-
-"https://developer.blender.org/p/DonaldVega"
-
-
-"https://developer.blender.org/p/mywifiextsetup"
-
-
-"https://developer.blender.org/p/myassignmenthelpp"
-
-
- 
