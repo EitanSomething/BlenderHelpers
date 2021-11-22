@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/jside"
 
- 
 "https://developer.blender.org/p/myassignmenthelpp"
 
-
- 
