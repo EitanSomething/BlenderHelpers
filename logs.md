@@ -13,3 +13,19 @@
 "https://developer.blender.org/p/walkerluna75"
 
  
+"https://developer.blender.org/p/carinhill"
+
+
+"https://developer.blender.org/p/felie001"
+
+
+"https://developer.blender.org/p/Accelero"
+
+
+"https://developer.blender.org/p/Ahurasim"
+
+
+"https://developer.blender.org/p/blastframe"
+
+
+ 
