@@ -26,14 +26,3 @@
 
 "https://developer.blender.org/p/ytgiuahdiuadjkhy"
 
- 
-"https://developer.blender.org/p/DianaRice"
-
-
-"https://developer.blender.org/p/MyronFox"
-
-
-"https://developer.blender.org/p/viincedaviss"
-
-
- 
