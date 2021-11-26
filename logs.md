@@ -19,3 +19,28 @@
 "https://developer.blender.org/p/TerenceHoward"
 
  
+"https://developer.blender.org/p/DianaRice"
+
+
+"https://developer.blender.org/p/MyronFox"
+
+
+"https://developer.blender.org/p/viincedaviss"
+
+
+"https://developer.blender.org/p/TerenceHoward"
+
+
+"https://developer.blender.org/p/walkerluna75"
+
+
+"https://developer.blender.org/p/carinhill"
+
+
+"https://developer.blender.org/p/Accelero"
+
+
+"https://developer.blender.org/p/Ahurasim"
+
+
+ 
