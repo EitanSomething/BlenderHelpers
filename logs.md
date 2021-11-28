@@ -42,14 +42,5 @@
 
 "https://developer.blender.org/p/stellairvin"
 
- 
 "https://developer.blender.org/p/JDub"
 
-
-"https://developer.blender.org/p/stellairvin"
-
-
-"https://developer.blender.org/p/world777"
-
-
- 
