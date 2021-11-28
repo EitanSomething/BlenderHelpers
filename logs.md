@@ -50,11 +50,3 @@
 
 "https://developer.blender.org/p/mayankblogg"
 
- 
-"https://developer.blender.org/p/cvzcnhfjgavadikd"
-
-
-"https://developer.blender.org/p/qmakzjbadahdg"
-
-
- 
