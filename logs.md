@@ -54,17 +54,9 @@
 
 "https://developer.blender.org/p/JakeBeck"
 
- 
 "https://developer.blender.org/p/geraldinetucker"
-
 
 "https://developer.blender.org/p/kamigreene"
 
-
 "https://developer.blender.org/p/adelavalentin"
 
-
-"https://developer.blender.org/p/JakeBeck"
-
-
- 
