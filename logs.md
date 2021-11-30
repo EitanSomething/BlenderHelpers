@@ -6,8 +6,5 @@
 
 "https://developer.blender.org/p/Myassignment"
 
- 
 "https://developer.blender.org/p/alexpb"
 
-
- 
