@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/mkaodlpajadgafw"
 
- 
-"https://developer.blender.org/p/mcafeeactivate1"
-
-
- 
