@@ -14,8 +14,3 @@
 
 "https://developer.blender.org/p/dmlr7"
 
- 
-"https://developer.blender.org/p/dmlr7"
-
-
- 
