@@ -10,8 +10,5 @@
 
 "https://developer.blender.org/p/lindabancher"
 
- 
 "https://developer.blender.org/p/adjakjhaguawidd"
 
-
- 
