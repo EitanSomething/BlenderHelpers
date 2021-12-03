@@ -14,11 +14,5 @@
 
 "https://developer.blender.org/p/yonnana47"
 
- 
 "https://developer.blender.org/p/hoknuvafyu"
 
-
-"https://developer.blender.org/p/yonnana47"
-
-
- 
