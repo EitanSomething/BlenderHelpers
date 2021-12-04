@@ -20,17 +20,5 @@
 
 "https://developer.blender.org/p/GelamiSalami"
 
- 
 "https://developer.blender.org/p/safeabortionpharma"
 
-
-"https://developer.blender.org/p/kendallrosa"
-
-
-"https://developer.blender.org/p/Rincewind3D"
-
-
-"https://developer.blender.org/p/GelamiSalami"
-
-
- 
