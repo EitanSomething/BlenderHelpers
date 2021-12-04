@@ -16,11 +16,3 @@
 
 "https://developer.blender.org/p/Rincewind3D"
 
- 
-"https://developer.blender.org/p/prajjwaljogdand"
-
-
-"https://developer.blender.org/p/jafiakwmadnjzha"
-
-
- 
