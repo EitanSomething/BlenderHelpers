@@ -28,11 +28,3 @@
 
 "https://developer.blender.org/p/Kraftpackpro"
 
- 
-"https://developer.blender.org/p/geribo3614"
-
-
-"https://developer.blender.org/p/sanvisharma"
-
-
- 
