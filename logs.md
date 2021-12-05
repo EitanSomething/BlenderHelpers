@@ -40,8 +40,3 @@
 
 "https://developer.blender.org/p/eduardosantosleal"
 
- 
-"https://developer.blender.org/p/eduardosantosleal"
-
-
- 
