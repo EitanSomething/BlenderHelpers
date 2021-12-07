@@ -10,8 +10,5 @@
 
 "https://developer.blender.org/p/Equescript"
 
- 
 "https://developer.blender.org/p/oneteamapp"
 
-
- 
