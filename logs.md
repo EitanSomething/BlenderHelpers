@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/hexoctabin"
 
- 
 "https://developer.blender.org/p/RiggingDojo"
 
-
- 
