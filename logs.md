@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/RiggingDojo"
 
- 
-"https://developer.blender.org/p/RiggingDojo"
-
-
- 
