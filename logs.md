@@ -14,8 +14,3 @@
 
 "https://developer.blender.org/p/looxix"
 
- 
-"https://developer.blender.org/p/looxix"
-
-
- 
