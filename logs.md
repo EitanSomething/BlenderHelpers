@@ -16,3 +16,10 @@
 
 "https://developer.blender.org/p/bmjgiuawkhadve"
 
+"https://developer.blender.org/p/Jarvikts"
+
+"https://developer.blender.org/p/EvanSchmid"
+
+"https://developer.blender.org/p/pablomlayfield"
+
+"https://developer.blender.org/p/robertojonsan1"
