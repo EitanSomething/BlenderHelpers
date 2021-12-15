@@ -4,11 +4,3 @@
 
 "https://developer.blender.org/p/watchvalley"
 
- 
-"https://developer.blender.org/p/watchvalley"
-
-
-"https://developer.blender.org/p/StanleeyNewman"
-
-
- 
