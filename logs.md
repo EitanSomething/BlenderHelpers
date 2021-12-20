@@ -28,14 +28,3 @@
 
 "https://developer.blender.org/p/jeansboutique"
 
- 
-"https://developer.blender.org/p/jameshealey"
-
-
-"https://developer.blender.org/p/chetanvowel"
-
-
-"https://developer.blender.org/p/Densle"
-
-
- 
