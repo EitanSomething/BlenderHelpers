@@ -4,14 +4,5 @@
 
 "https://developer.blender.org/p/Svend"
 
- 
 "https://developer.blender.org/p/charlessmith"
 
-
-"https://developer.blender.org/p/Techovrtechnologies"
-
-
-"https://developer.blender.org/p/Svend"
-
-
- 
