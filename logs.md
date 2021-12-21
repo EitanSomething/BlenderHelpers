@@ -18,17 +18,3 @@
 
 "https://developer.blender.org/p/onroadzcarrental"
 
- 
-"https://developer.blender.org/p/alorawilliams"
-
-
-"https://developer.blender.org/p/Whitehole"
-
-
-"https://developer.blender.org/p/onroadzcarrental"
-
-
-"https://developer.blender.org/p/miorrstjur"
-
-
- 
