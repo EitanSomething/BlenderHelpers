@@ -6,11 +6,5 @@
 
 "https://developer.blender.org/p/rantichy"
 
- 
 "https://developer.blender.org/p/prijakaew"
 
-
-"https://developer.blender.org/p/rantichy"
-
-
- 
