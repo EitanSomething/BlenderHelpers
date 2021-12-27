@@ -4,11 +4,5 @@
 
 "https://developer.blender.org/p/pandoai"
 
- 
 "https://developer.blender.org/p/siciyuanweilai"
 
-
-"https://developer.blender.org/p/pandoai"
-
-
- 
