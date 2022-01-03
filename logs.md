@@ -10,11 +10,3 @@
 
 "https://developer.blender.org/p/IslamicHoney5"
 
- 
-"https://developer.blender.org/p/IslamicHoney5"
-
-
-"https://developer.blender.org/p/agapisimon_2015"
-
-
- 
