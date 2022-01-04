@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/LordGoldLynx"
 
- 
-"https://developer.blender.org/p/LordGoldLynx"
-
-
- 
