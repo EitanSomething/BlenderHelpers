@@ -4,14 +4,5 @@
 
 "https://developer.blender.org/p/jamesbrown7286"
 
- 
 "https://developer.blender.org/p/davidparkeraus121"
 
-
-"https://developer.blender.org/p/jamesbrown7286"
-
-
-"https://developer.blender.org/p/indoglobalestates"
-
-
- 
