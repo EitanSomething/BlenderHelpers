@@ -4,11 +4,3 @@
 
 "https://developer.blender.org/p/dingto"
 
- 
-"https://developer.blender.org/p/dingto"
-
-
-"https://developer.blender.org/p/sybren"
-
-
- 
