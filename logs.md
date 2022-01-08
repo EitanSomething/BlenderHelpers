@@ -16,14 +16,3 @@
 
 "https://developer.blender.org/p/Airfleetrating0"
 
- 
-"https://developer.blender.org/p/morganjohn"
-
-
-"https://developer.blender.org/p/instaglassus"
-
-
-"https://developer.blender.org/p/Tigrezz"
-
-
- 
