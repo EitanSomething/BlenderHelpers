@@ -8,8 +8,3 @@
 
 "https://developer.blender.org/p/ademar440"
 
- 
-"https://developer.blender.org/p/ademar440"
-
-
- 
