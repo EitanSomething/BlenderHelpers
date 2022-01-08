@@ -16,8 +16,3 @@
 
 "https://developer.blender.org/p/Airfleetrating0"
 
- 
-"https://developer.blender.org/p/morganjohn"
-
-
- 
