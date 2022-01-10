@@ -22,14 +22,7 @@
 
 "https://developer.blender.org/p/ankitm"
 
- 
 "https://developer.blender.org/p/growwider"
-
 
 "https://developer.blender.org/p/umztechnologies"
 
-
-"https://developer.blender.org/p/ankitm"
-
-
- 
