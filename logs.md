@@ -26,17 +26,5 @@
 
 "https://developer.blender.org/p/umztechnologies"
 
- 
 "https://developer.blender.org/p/turn047"
 
-
-"https://developer.blender.org/p/growwider"
-
-
-"https://developer.blender.org/p/umztechnologies"
-
-
-"https://developer.blender.org/p/ankitm"
-
-
- 
