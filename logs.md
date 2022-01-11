@@ -6,14 +6,5 @@
 
 "https://developer.blender.org/p/alus4xsu3d"
 
- 
 "https://developer.blender.org/p/luciewilliams15"
 
-
-"https://developer.blender.org/p/andrewwilliams"
-
-
-"https://developer.blender.org/p/alus4xsu3d"
-
-
- 
