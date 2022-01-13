@@ -8,14 +8,7 @@
 
 "https://developer.blender.org/p/dealsnado"
 
- 
 "https://developer.blender.org/p/digitalagencyreseller"
-
-
-"https://developer.blender.org/p/dealsnado"
-
 
 "https://developer.blender.org/p/dertee"
 
-
- 
