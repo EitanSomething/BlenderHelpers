@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/auditax"
 
- 
-"https://developer.blender.org/p/jackowen"
-
-
- 
