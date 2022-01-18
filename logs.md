@@ -13,3 +13,13 @@
 "https://developer.blender.org/p/luckysitusjudi"
 
  
+"https://developer.blender.org/p/jassonstevv"
+
+
+"https://developer.blender.org/p/luckysitusjudi"
+
+
+"https://developer.blender.org/p/luca_visuals"
+
+
+ 
