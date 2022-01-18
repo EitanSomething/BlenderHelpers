@@ -10,11 +10,5 @@
 
 "https://developer.blender.org/p/luca_visuals"
 
- 
 "https://developer.blender.org/p/luckysitusjudi"
 
-
-"https://developer.blender.org/p/luca_visuals"
-
-
- 
