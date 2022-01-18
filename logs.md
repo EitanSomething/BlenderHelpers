@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/teresabing2021"
 
- 
 "https://developer.blender.org/p/luca_visuals"
 
-
- 
