@@ -2,8 +2,3 @@
 
 "https://developer.blender.org/p/miiroseppanen"
 
- 
-"https://developer.blender.org/p/YanSculpts"
-
-
- 
