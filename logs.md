@@ -10,20 +10,5 @@
 
 "https://developer.blender.org/p/jadore0"
 
- 
 "https://developer.blender.org/p/BillFreeman"
 
-
-"https://developer.blender.org/p/jadore0"
-
-
-"https://developer.blender.org/p/abhigya27jain"
-
-
-"https://developer.blender.org/p/watchonlinemovies01"
-
-
-"https://developer.blender.org/p/kaban"
-
-
- 
