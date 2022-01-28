@@ -10,14 +10,5 @@
 
 "https://developer.blender.org/p/Alligat0r"
 
- 
 "https://developer.blender.org/p/simcipa"
 
-
-"https://developer.blender.org/p/Alligat0r"
-
-
-"https://developer.blender.org/p/lone_noel"
-
-
- 
