@@ -6,8 +6,5 @@
 
 "https://developer.blender.org/p/sayed_amin"
 
- 
 "https://developer.blender.org/p/lone_noel"
 
-
- 
