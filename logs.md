@@ -20,8 +20,3 @@
 
 "https://developer.blender.org/p/beritaterkini365"
 
- 
-"https://developer.blender.org/p/fukehejavo"
-
-
- 
