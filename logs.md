@@ -18,17 +18,5 @@
 
 "https://developer.blender.org/p/fukehejavo"
 
- 
 "https://developer.blender.org/p/beritaterkini365"
 
-
-"https://developer.blender.org/p/fukehejavo"
-
-
-"https://developer.blender.org/p/hassan3x"
-
-
-"https://developer.blender.org/p/romsmith"
-
-
- 
