@@ -24,11 +24,5 @@
 
 "https://developer.blender.org/p/karthikg12" Needs comments removal.
 
- 
 "https://developer.blender.org/p/indusvalley"
 
-
-"https://developer.blender.org/p/jerry2"
-
-
- 
