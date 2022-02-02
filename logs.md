@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/blenduser"
 
- 
 "https://developer.blender.org/p/swifttechsolutions"
 
-
- 
