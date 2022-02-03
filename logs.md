@@ -18,11 +18,3 @@
 
 "https://developer.blender.org/p/ostomylifestyle123"
 
- 
-"https://developer.blender.org/p/apkmama329"
-
-
-"https://developer.blender.org/p/ecozyfurniture01"
-
-
- 
