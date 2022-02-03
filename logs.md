@@ -14,11 +14,3 @@
 
 "https://developer.blender.org/p/nicktsagaris"
 
- 
-"https://developer.blender.org/p/marryjonsen"
-
-
-"https://developer.blender.org/p/blenduser"
-
-
- 
