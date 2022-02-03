@@ -14,20 +14,7 @@
 
 "https://developer.blender.org/p/nicktsagaris"
 
- 
 "https://developer.blender.org/p/hassan1x"
-
 
 "https://developer.blender.org/p/blushedrose"
 
-
-"https://developer.blender.org/p/nicktsagaris"
-
-
-"https://developer.blender.org/p/marryjonsen"
-
-
-"https://developer.blender.org/p/blenduser"
-
-
- 
