@@ -8,8 +8,3 @@
 
 "https://developer.blender.org/p/onlinegambling"
 
- 
-"https://developer.blender.org/p/nicocook"
-
-
- 
