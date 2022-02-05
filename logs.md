@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/Baruch"
 
- 
 "https://developer.blender.org/p/nicocook"
 
-
- 
