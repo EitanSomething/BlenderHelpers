@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/StojoArt"
 
- 
 "https://developer.blender.org/p/ElleRate"
 
-
- 
