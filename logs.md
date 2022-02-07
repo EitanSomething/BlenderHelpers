@@ -2,11 +2,7 @@
 
 "https://developer.blender.org/p/Aliceroberts"
 
- 
 "https://developer.blender.org/p/hugocoaching21"
-
 
 "https://developer.blender.org/p/gclubpros01"
 
-
- 
