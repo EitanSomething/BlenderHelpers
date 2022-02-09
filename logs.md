@@ -12,11 +12,3 @@
 
 "https://developer.blender.org/p/HmeliQ"
 
- 
-"https://developer.blender.org/p/richardhowelll"
-
-
-"https://developer.blender.org/p/Jeremymason"
-
-
- 
