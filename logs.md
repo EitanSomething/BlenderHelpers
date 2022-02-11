@@ -4,11 +4,3 @@
 
 "https://developer.blender.org/p/charly11"
 
- 
-"https://developer.blender.org/p/charly11"
-
-
-"https://developer.blender.org/p/neosun"
-
-
- 
