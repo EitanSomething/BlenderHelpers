@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/tmp_bug_reporter"
 
- 
-"https://developer.blender.org/p/tmp_bug_reporter"
-
-
- 
