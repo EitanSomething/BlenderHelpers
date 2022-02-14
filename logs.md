@@ -16,8 +16,5 @@
 
 "https://developer.blender.org/p/T3L"
 
- 
 "https://developer.blender.org/p/seo199datacd"
 
-
- 
