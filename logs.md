@@ -12,11 +12,3 @@
 
 "https://developer.blender.org/p/comtr"
 
- 
-"https://developer.blender.org/p/micho4150"
-
-
-"https://developer.blender.org/p/finalank"
-
-
- 
