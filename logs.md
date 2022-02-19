@@ -14,8 +14,3 @@
 
 "https://developer.blender.org/p/richgame369"
 
- 
-"https://developer.blender.org/p/comtr"
-
-
- 
