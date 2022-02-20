@@ -16,8 +16,3 @@
 
 "https://developer.blender.org/p/SixMouth"
 
- 
-"https://developer.blender.org/p/SixMouth"
-
-
- 
