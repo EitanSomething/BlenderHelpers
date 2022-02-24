@@ -2,8 +2,3 @@
 
 "https://developer.blender.org/p/dtour7"
 
- 
-"https://developer.blender.org/p/dtour7"
-
-
- 
