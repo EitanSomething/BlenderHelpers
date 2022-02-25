@@ -10,17 +10,5 @@
 
 "https://developer.blender.org/p/nitstudio"
 
- 
 "https://developer.blender.org/p/xomivom"
 
-
-"https://developer.blender.org/p/nitstudio"
-
-
-"https://developer.blender.org/p/Yusagio"
-
-
-"https://developer.blender.org/p/pembem22"
-
-
- 
