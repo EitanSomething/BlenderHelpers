@@ -12,23 +12,11 @@
 
 "https://developer.blender.org/p/xomivom"
 
- 
 "https://developer.blender.org/p/rushkartech"
-
 
 "https://developer.blender.org/p/Ashnaimittal21"
 
-
 "https://developer.blender.org/p/ameliajacob9497"
-
 
 "https://developer.blender.org/p/miashopia123"
 
-
-"https://developer.blender.org/p/nitstudio"
-
-
-"https://developer.blender.org/p/Yusagio"
-
-
- 
