@@ -10,17 +10,5 @@
 
 "https://developer.blender.org/p/skymovers"
 
- 
 "https://developer.blender.org/p/smartwheelcanada"
 
-
-"https://developer.blender.org/p/skymovers"
-
-
-"https://developer.blender.org/p/giftsvalla"
-
-
-"https://developer.blender.org/p/jossbrayden"
-
-
- 
