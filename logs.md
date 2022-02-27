@@ -21,3 +21,13 @@
 "https://developer.blender.org/p/hillcalvin886"
 
  
+"https://developer.blender.org/p/ubercloneapplication"
+
+
+"https://developer.blender.org/p/casinoo"
+
+
+"https://developer.blender.org/p/Isaac"
+
+
+ 
