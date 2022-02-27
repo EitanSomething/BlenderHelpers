@@ -18,11 +18,3 @@
 
 "https://developer.blender.org/p/ubercloneapplication"
 
- 
-"https://developer.blender.org/p/Hossamemad98"
-
-
-"https://developer.blender.org/p/jodyroth"
-
-
- 
