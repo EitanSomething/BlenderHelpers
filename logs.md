@@ -19,3 +19,7 @@
 "https://developer.blender.org/p/ubercloneapplication"
 
  
+"https://developer.blender.org/p/casinoo"
+
+
+ 
