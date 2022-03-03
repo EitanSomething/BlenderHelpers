@@ -6,8 +6,5 @@
 
 "https://developer.blender.org/p/morpeatar"
 
- 
 "https://developer.blender.org/p/blogtulip"
 
-
- 
