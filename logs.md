@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/bejigib"
 
- 
-"https://developer.blender.org/p/blogtulip"
-
-
- 
