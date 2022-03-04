@@ -2,8 +2,5 @@
 
 "https://developer.blender.org/p/ThePadawan"
 
- 
 "https://developer.blender.org/p/makemoneyonline"
 
-
- 
