@@ -7,3 +7,7 @@
 "https://developer.blender.org/p/significadocolor"
 
  
+"https://developer.blender.org/p/enable-ai"
+
+
+ 
