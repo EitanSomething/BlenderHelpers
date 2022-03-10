@@ -10,11 +10,5 @@
 
 "https://developer.blender.org/p/aromawaxclinic.yonge"
 
- 
 "https://developer.blender.org/p/auliatourmedan"
 
-
-"https://developer.blender.org/p/aromawaxclinic.yonge"
-
-
- 
