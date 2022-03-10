@@ -9,3 +9,10 @@
 "https://developer.blender.org/p/enable-ai"
 
  
+"https://developer.blender.org/p/aromawaxclinic.yonge"
+
+
+"https://developer.blender.org/p/enable-ai"
+
+
+ 
