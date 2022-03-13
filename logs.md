@@ -12,11 +12,5 @@
 
 "https://developer.blender.org/p/vikasbisht"
 
- 
 "https://developer.blender.org/p/heligad"
 
-
-"https://developer.blender.org/p/vikasbisht"
-
-
- 
