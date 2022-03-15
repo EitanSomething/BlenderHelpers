@@ -2,14 +2,5 @@
 
 "https://developer.blender.org/p/beautyandthecut"
 
- 
 "https://developer.blender.org/p/88eggwhites"
 
-
-"https://developer.blender.org/p/beautyandthecut"
-
-
-"https://developer.blender.org/p/FGA"
-
-
- 
