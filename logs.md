@@ -6,11 +6,3 @@
 
 "https://developer.blender.org/p/paketwisatamedan"
 
- 
-"https://developer.blender.org/p/tourmedanmurah"
-
-
-"https://developer.blender.org/p/auliatravelmedan"
-
-
- 
