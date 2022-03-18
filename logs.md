@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/usboxprinter"
 
- 
 "https://developer.blender.org/p/jason_apple"
 
-
- 
