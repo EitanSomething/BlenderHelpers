@@ -10,8 +10,3 @@
 
 "https://developer.blender.org/p/tschipie"
 
- 
-"https://developer.blender.org/p/tschipie"
-
-
- 
