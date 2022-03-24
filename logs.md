@@ -2,8 +2,5 @@
 
 "https://developer.blender.org/p/coinbasesupportnumberrs"
 
- 
 "https://developer.blender.org/p/minato001"
 
-
- 
