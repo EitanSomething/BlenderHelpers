@@ -8,14 +8,5 @@
 
 "https://developer.blender.org/p/jointreplacement"
 
- 
 "https://developer.blender.org/p/hotstaradblocker"
 
-
-"https://developer.blender.org/p/soyamos"
-
-
-"https://developer.blender.org/p/jointreplacement"
-
-
- 
