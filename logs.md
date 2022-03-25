@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/kevin.curry"
 
- 
 "https://developer.blender.org/p/soyamos"
 
-
- 
