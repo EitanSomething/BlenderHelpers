@@ -16,8 +16,5 @@
 
 "https://developer.blender.org/p/onlineastrologyconsultancy"
 
- 
 "https://developer.blender.org/p/samremovals2"
 
-
- 
