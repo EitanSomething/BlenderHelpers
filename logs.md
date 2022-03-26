@@ -6,23 +6,7 @@
 
 "https://developer.blender.org/p/sheetah3"
 
- 
 "https://developer.blender.org/p/kedkox"
-
 
 "https://developer.blender.org/p/scannybet"
 
-
-"https://developer.blender.org/p/sheetah3"
-
-
-"https://developer.blender.org/p/terrybrown"
-
-
-"https://developer.blender.org/p/rochell41"
-
-
-"https://developer.blender.org/p/marklevise"
-
-
- 
