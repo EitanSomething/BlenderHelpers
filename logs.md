@@ -14,20 +14,5 @@
 
 "https://developer.blender.org/p/maharanacab"
 
- 
 "https://developer.blender.org/p/onlineastrologyconsultancy"
 
-
-"https://developer.blender.org/p/maharanacab"
-
-
-"https://developer.blender.org/p/muslimmantraforlove"
-
-
-"https://developer.blender.org/p/kedkox"
-
-
-"https://developer.blender.org/p/scannybet"
-
-
- 
