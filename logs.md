@@ -26,14 +26,3 @@
 
 "https://developer.blender.org/p/ofeduau"
 
- 
-"https://developer.blender.org/p/wmkaamx"
-
-
-"https://developer.blender.org/p/takej"
-
-
-"https://developer.blender.org/p/veilrain"
-
-
- 
