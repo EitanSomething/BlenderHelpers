@@ -8,8 +8,3 @@
 
 "https://developer.blender.org/p/msadaan838"
 
- 
-"https://developer.blender.org/p/sicuero7989"
-
-
- 
