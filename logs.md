@@ -4,14 +4,5 @@
 
 "https://developer.blender.org/p/johnjerry"
 
- 
 "https://developer.blender.org/p/sicuero7989"
 
-
-"https://developer.blender.org/p/sanyasingh10351"
-
-
-"https://developer.blender.org/p/johnjerry"
-
-
- 
