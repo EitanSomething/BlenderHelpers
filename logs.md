@@ -12,14 +12,7 @@
 
 "https://developer.blender.org/p/panozaa_wp"
 
- 
 "https://developer.blender.org/p/Justwebworld"
-
 
 "https://developer.blender.org/p/InfinoDigitalAgency"
 
-
-"https://developer.blender.org/p/panozaa_wp"
-
-
- 
