@@ -16,11 +16,3 @@
 
 "https://developer.blender.org/p/InfinoDigitalAgency"
 
- 
-"https://developer.blender.org/p/InfinoDigitalAgency"
-
-
-"https://developer.blender.org/p/panozaa_wp"
-
-
- 
