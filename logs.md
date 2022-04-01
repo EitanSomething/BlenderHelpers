@@ -10,11 +10,3 @@
 
 "https://developer.blender.org/p/htuncay"
 
- 
-"https://developer.blender.org/p/josephhansen"
-
-
-"https://developer.blender.org/p/htuncay"
-
-
- 
