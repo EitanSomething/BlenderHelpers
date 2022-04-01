@@ -20,8 +20,5 @@
 
 "https://developer.blender.org/p/zippyequestrian"
 
- 
 "https://developer.blender.org/p/JairusClutch"
 
-
- 
