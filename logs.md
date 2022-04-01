@@ -14,8 +14,3 @@
 
 "https://developer.blender.org/p/digimark"
 
- 
-"https://developer.blender.org/p/digimark"
-
-
- 
