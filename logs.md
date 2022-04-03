@@ -26,5 +26,3 @@
 
 "https://developer.blender.org/p/canvas_supplier_singapore"
 
- 
- 
