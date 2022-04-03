@@ -30,11 +30,5 @@
 
 "https://developer.blender.org/p/nagaliga123"
 
- 
-"https://developer.blender.org/p/aetmad"
-
-
 "https://developer.blender.org/p/D0ppelgaenger"
 
-
- 
