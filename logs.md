@@ -34,11 +34,3 @@
 
 "https://developer.blender.org/p/buytramadolonline"
 
- 
-"https://developer.blender.org/p/thomashope"
-
-
-"https://developer.blender.org/p/D0ppelgaenger"
-
-
- 
