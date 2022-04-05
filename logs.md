@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/pharmasstore01"
 
- 
 "https://developer.blender.org/p/pityjhone35"
 
-
- 
