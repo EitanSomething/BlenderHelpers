@@ -4,14 +4,5 @@
 
 "https://developer.blender.org/p/frankdigital01"
 
- 
 "https://developer.blender.org/p/damiv"
 
-
-"https://developer.blender.org/p/frankdigital01"
-
-
-"https://developer.blender.org/p/kunalankleshwar"
-
-
- 
