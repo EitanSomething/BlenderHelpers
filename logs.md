@@ -8,8 +8,3 @@
 
 "https://developer.blender.org/p/Ali76"
 
- 
-"https://developer.blender.org/p/frankdigital01"
-
-
- 
