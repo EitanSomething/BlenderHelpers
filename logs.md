@@ -8,11 +8,3 @@
 
 "https://developer.blender.org/p/Ashnaimittal71"
 
- 
-"https://developer.blender.org/p/jamestoddandco"
-
-
-"https://developer.blender.org/p/callgirlindehraduns"
-
-
- 
