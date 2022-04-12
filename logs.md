@@ -8,11 +8,3 @@
 
 "https://developer.blender.org/p/AliCFC"
 
- 
-"https://developer.blender.org/p/urielDeveaud"
-
-
-"https://developer.blender.org/p/AliCFC"
-
-
- 
