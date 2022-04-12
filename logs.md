@@ -10,11 +10,3 @@
 
 "https://developer.blender.org/p/johnavr30"
 
- 
-"https://developer.blender.org/p/urielDeveaud"
-
-
-"https://developer.blender.org/p/AliCFC"
-
-
- 
