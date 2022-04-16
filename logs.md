@@ -18,8 +18,3 @@
 
 "https://developer.blender.org/p/mistercokes"
 
- 
-"https://developer.blender.org/p/usamarriagebureau"
-
-
- 
