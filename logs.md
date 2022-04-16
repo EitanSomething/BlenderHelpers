@@ -7,3 +7,13 @@
 "https://developer.blender.org/p/Yidruhamle"
 
  
+"https://developer.blender.org/p/24NewsHD"
+
+
+"https://developer.blender.org/p/Yidruhamle"
+
+
+"https://developer.blender.org/p/gloriawilburn"
+
+
+ 
