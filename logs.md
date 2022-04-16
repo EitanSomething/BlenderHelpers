@@ -14,17 +14,3 @@
 
 "https://developer.blender.org/p/koinemas88"
 
- 
-"https://developer.blender.org/p/24NewsHDUrdu"
-
-
-"https://developer.blender.org/p/koinemas88"
-
-
-"https://developer.blender.org/p/24NewsHD"
-
-
-"https://developer.blender.org/p/Yidruhamle"
-
-
- 
