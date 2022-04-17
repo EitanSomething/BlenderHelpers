@@ -22,8 +22,3 @@
 
 "https://developer.blender.org/p/anujkapadia"
 
- 
-"https://developer.blender.org/p/anujkapadia"
-
-
- 
