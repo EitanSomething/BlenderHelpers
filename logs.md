@@ -6,14 +6,3 @@
 
 "https://developer.blender.org/p/telmicodri"
 
- 
-"https://developer.blender.org/p/telmicodri"
-
-
-"https://developer.blender.org/p/kotusrising"
-
-
-"https://developer.blender.org/p/ElsaCohen"
-
-
- 
