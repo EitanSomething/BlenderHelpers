@@ -8,8 +8,3 @@
 
 "https://developer.blender.org/p/weent19"
 
- 
-"https://developer.blender.org/p/johnnybet"
-
-
- 
