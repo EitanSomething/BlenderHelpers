@@ -8,11 +8,3 @@
 
 "https://developer.blender.org/p/Shiyamad"
 
- 
-"https://developer.blender.org/p/jaysteven"
-
-
-"https://developer.blender.org/p/Shiyamad"
-
-
- 
