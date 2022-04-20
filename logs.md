@@ -6,11 +6,5 @@
 
 "https://developer.blender.org/p/techmunir11"
 
- 
-"https://developer.blender.org/p/jaysteven"
-
-
 "https://developer.blender.org/p/Shiyamad"
 
-
- 
