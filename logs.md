@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/funwithbacklinks"
 
- 
-"https://developer.blender.org/p/latestnewsdubai6"
-
-
- 
