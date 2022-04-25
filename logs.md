@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/dotcreative"
 
- 
-"https://developer.blender.org/p/Kuwaaa_"
-
-
- 
