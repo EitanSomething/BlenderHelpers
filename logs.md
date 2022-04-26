@@ -12,20 +12,9 @@
 
 "https://developer.blender.org/p/vijoh"
 
- 
 "https://developer.blender.org/p/DigitalMarketing101"
-
 
 "https://developer.blender.org/p/fajalrahi"
 
-
 "https://developer.blender.org/p/Goretoedu"
 
-
-"https://developer.blender.org/p/vijoh"
-
-
-"https://developer.blender.org/p/Ballettstost"
-
-
- 
