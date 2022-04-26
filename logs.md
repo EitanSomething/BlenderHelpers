@@ -7,3 +7,10 @@
 "https://developer.blender.org/p/KirillPutchenko"
 
  
+"https://developer.blender.org/p/SPINXDigital"
+
+
+"https://developer.blender.org/p/RepairPrinter"
+
+
+ 
