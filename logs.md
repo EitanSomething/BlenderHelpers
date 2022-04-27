@@ -40,14 +40,5 @@
 
 "https://developer.blender.org/p/BlogTutorial"
 
- 
 "https://developer.blender.org/p/uniqstone"
 
-
-"https://developer.blender.org/p/usguncenter"
-
-
-"https://developer.blender.org/p/BlogTutorial"
-
-
- 
