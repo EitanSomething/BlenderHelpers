@@ -18,11 +18,5 @@
 
 "https://developer.blender.org/p/suwarnooke"
 
- 
-"https://developer.blender.org/p/mahagovt"
-
-
 "https://developer.blender.org/p/Ninjarisu"
 
-
- 
