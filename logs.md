@@ -40,14 +40,3 @@
 
 "https://developer.blender.org/p/BlogTutorial"
 
- 
-"https://developer.blender.org/p/BlogTutorial"
-
-
-"https://developer.blender.org/p/BlendSoftwares"
-
-
-"https://developer.blender.org/p/cl3m3c7"
-
-
- 
