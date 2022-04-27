@@ -14,8 +14,5 @@
 
 "https://developer.blender.org/p/bognubirda"
 
- 
 "https://developer.blender.org/p/mahagovt"
 
-
- 
