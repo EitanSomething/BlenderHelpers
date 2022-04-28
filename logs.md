@@ -34,23 +34,7 @@
 
 "https://developer.blender.org/p/alenmorgan"
 
- 
 "https://developer.blender.org/p/cmyrajasthan"
-
-
-"https://developer.blender.org/p/Telugudugo"
-
-
-"https://developer.blender.org/p/cracck432"
-
 
 "https://developer.blender.org/p/shraddha8516"
 
-
-"https://developer.blender.org/p/alenmorgan"
-
-
-"https://developer.blender.org/p/letestbusiness"
-
-
- 
