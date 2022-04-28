@@ -28,17 +28,9 @@
 
 "https://developer.blender.org/p/letestbusiness"
 
- 
 "https://developer.blender.org/p/Telugudugo"
-
 
 "https://developer.blender.org/p/cracck432"
 
-
 "https://developer.blender.org/p/alenmorgan"
 
-
-"https://developer.blender.org/p/letestbusiness"
-
-
- 
