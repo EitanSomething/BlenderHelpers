@@ -20,8 +20,5 @@
 
 "https://developer.blender.org/p/wanna0077"
 
- 
 "https://developer.blender.org/p/newweightloss"
 
-
- 
