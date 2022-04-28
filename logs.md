@@ -22,8 +22,5 @@
 
 "https://developer.blender.org/p/newweightloss"
 
- 
 "https://developer.blender.org/p/shakilahamed72"
 
-
- 
