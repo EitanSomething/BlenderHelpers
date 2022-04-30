@@ -4,11 +4,5 @@
 
 "https://developer.blender.org/p/gol97"
 
- 
 "https://developer.blender.org/p/chocomanualart"
 
-
-"https://developer.blender.org/p/gol97"
-
-
- 
