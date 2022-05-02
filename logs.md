@@ -14,8 +14,3 @@
 
 "https://developer.blender.org/p/Blubvis725"
 
- 
-"https://developer.blender.org/p/okjp12"
-
-
- 
