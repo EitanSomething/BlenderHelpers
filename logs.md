@@ -4,8 +4,5 @@
 
 "https://developer.blender.org/p/cmdr2"
 
- 
 "https://developer.blender.org/p/nuvo"
 
-
- 
