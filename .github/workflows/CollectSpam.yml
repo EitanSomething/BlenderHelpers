@@ -20,7 +20,6 @@ jobs:
       run: |
           mkdir ~/arc
           cd ~/arc
-          git clone https://github.com/phacility/libphutil.git
           git clone https://github.com/phacility/arcanist.git
           touch ~/.arcrc
           echo '{"hosts": {"https://developer.blender.org/api/": {"token": "${{ secrets.CONDUIT }}"}}}' > ~/.arcrc
