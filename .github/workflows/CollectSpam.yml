@@ -30,8 +30,8 @@ jobs:
     - name: Run the script
       run: |
 
-        git config --global user.email "eitant13@gmail.com"
-        git config --global user.name EitanSomething
+        git config --global user.email "blenderhelpers@gmail.com"
+        git config --global user.name BlenderHelpers
         git fetch
         git checkout auto_commits
         git pull origin auto_commits --rebase
