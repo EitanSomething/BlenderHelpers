@@ -20,23 +20,5 @@
 
 "https://developer.blender.org/p/johnhammer"
 
- 
 "https://developer.blender.org/p/sxdenvironmental"
 
-
-"https://developer.blender.org/p/mixingimages"
-
-
-"https://developer.blender.org/p/yagisih"
-
-
-"https://developer.blender.org/p/johnhammer"
-
-
-"https://developer.blender.org/p/onlinefront39"
-
-
-"https://developer.blender.org/p/cinemavilla"
-
-
- 
