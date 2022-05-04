@@ -1,0 +1,19 @@
+name: BlenderChatSendSpamMessage
+on:
+  schedule:
+    - cron:  '30 8,8 * * 1-5'
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
+      USERID: ${{ secrets.USERID }}
+    
+    steps:
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: BlenderChatSendSpamMessage
+      run: |
+        python BlenderChatSendSpamMessage.py
