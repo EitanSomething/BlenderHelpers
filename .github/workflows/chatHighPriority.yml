@@ -13,5 +13,5 @@ jobs:
     steps:
     - name: CurlHighPriority
       run: |
-        curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "LpczsRCWtkYY6AzFt", "msg": "https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md" }}'
+        curl -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "LpczsRCWtkYY6AzFt", --data-binary "msg": "@https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md" }}'
         
