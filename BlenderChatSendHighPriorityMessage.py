@@ -11,7 +11,8 @@ def login():
 def sendMessage():
     with open('bugs_report.txt') as f:
         lines = f.readlines()
-    api.send_message(lines,"LpczsRCWtkYY6AzFt")
+    message = ''.join(map(str,lines))
+    api.send_message(message, "LpczsRCWtkYY6AzFt")
 if __name__ == '__main__':
     login()
     sendMessage()
