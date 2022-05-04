@@ -10,7 +10,7 @@ def login():
                                   'domain': 'https://blender.chat'})
 def sendMessage():
     with open('bugs_report.txt') as f:
-    lines = f.readlines()
+        lines = f.readlines()
     api.send_message(lines)
 if __name__ == '__main__':
     login()
