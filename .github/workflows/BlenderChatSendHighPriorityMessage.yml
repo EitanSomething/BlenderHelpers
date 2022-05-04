@@ -1,0 +1,28 @@
+name: BlenderChatSendHighPriorityMessage
+on:
+  schedule:
+    - cron:  '30 8,8 * * 1-5'
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
+      USERID: ${{ secrets.USERID }}
+    
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Get RocketChat library etc
+      run: |
+        pip install rocket-python
+    - name: BlenderChatSendHighPriorityMessage
+      run: |
+        git config --global user.email "blenderhelpers@gmail.com"
+        git config --global user.name BlenderHelpers
+        git fetch
+        git checkout auto_commits
+        python BlenderChatSendHighPriorityMessage.py
+        
