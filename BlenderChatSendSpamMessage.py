@@ -9,7 +9,7 @@ def login():
     api = RocketChatAPI(settings={'token': TOKEN, 'user_id': USERID,
                                   'domain': 'https://blender.chat'})
 def sendMessage():
-    api.send_message("@ThomasDinges Potential Spam. Not everything on the list is spam. https://github.com/EitanSomething/BlenderBlenderHelpers/blob/auto_commits/logs.md","9p9NPvT7yFseE8ivA")
+    api.send_message("@ThomasDinges Potential Spam. Not everything on the list is spam. https://github.com/EitanSomething/BlenderHelpers/blob/auto_commits/logs.md","9p9NPvT7yFseE8ivA")
 if __name__ == '__main__':
     login()
     sendMessage()
