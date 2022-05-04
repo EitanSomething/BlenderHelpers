@@ -24,5 +24,6 @@ jobs:
         git config --global user.name BlenderHelpers
         git fetch
         git checkout auto_commits
+        git pull origin auto_commits --rebase
         python BlenderChatSendHighPriorityMessage.py
         
