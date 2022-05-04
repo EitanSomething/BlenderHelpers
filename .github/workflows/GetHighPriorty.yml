@@ -25,7 +25,7 @@ jobs:
         git fetch
         git checkout auto_commits
         git pull origin auto_commits --rebase
-        python GetHighPriority.py
+        python get_high_prio_bugs.py
         git commit -m "Get Hugh Priority"
 
         
