@@ -1,0 +1,17 @@
+name: CURL
+on:
+  schedule:
+    - cron:  '30 8,8 * * 1-5'
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.TOKEN }}
+      USERID: ${{ secrets.USERID }}
+
+    steps:
+    - name: Curl
+      run: |
+        curl --data-binary -H "X-Auth-Token: $TOKEN" -H "X-User-Id: $USERID" -H "Content-type:application/json"     https://blender.chat/api/v1/chat.sendMessage      -d '{"message": { "rid": "LpczsRCWtkYY6AzFt", "msg": "@https://github.com/EitanSomething/BlenderSpam/blob/auto_commits/logs.md" }}'
+        
