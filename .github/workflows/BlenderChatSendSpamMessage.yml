@@ -16,4 +16,8 @@ jobs:
         python-version: '3.x'
     - name: BlenderChatSendSpamMessage
       run: |
+        git config --global user.email "blenderhelpers@gmail.com"
+        git config --global user.name BlenderHelpers
+        git fetch
+        git checkout auto_commits
         python BlenderChatSendSpamMessage.py
