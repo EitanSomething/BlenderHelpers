@@ -28,7 +28,7 @@ jobs:
         git add bugs_report.txt
         python get_high_prio_bugs.py >> bugs_report.txt
         git add bugs_report.txt
-        git commit -m "Get Hugh Priority"
+        git commit -m "Get High Priority"
         git push origin HEAD:auto_commits
 
         
