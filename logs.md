@@ -8,14 +8,5 @@
 
 "https://developer.blender.org/p/reyanhanan"
 
- 
 "https://developer.blender.org/p/digitalmarketingcertificate"
 
-
-"https://developer.blender.org/p/reyanhanan"
-
-
-"https://developer.blender.org/p/brne666"
-
-
- 
