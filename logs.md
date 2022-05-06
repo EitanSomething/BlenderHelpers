@@ -2,8 +2,3 @@
 
 "https://developer.blender.org/p/smithwebexpert"
 
- 
-"https://developer.blender.org/p/smithwebexpert"
-
-
- 
