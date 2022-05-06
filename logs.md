@@ -16,11 +16,5 @@
 
 "https://developer.blender.org/p/delhiescorts711"
 
- 
 "https://developer.blender.org/p/islamicshopuk"
 
-
-"https://developer.blender.org/p/CallCMS"
-
-
- 
