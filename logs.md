@@ -8,14 +8,5 @@
 
 "https://developer.blender.org/p/excellenthima"
 
- 
 "https://developer.blender.org/p/cartaplanbee"
 
-
-"https://developer.blender.org/p/excellenthima"
-
-
-"https://developer.blender.org/p/alexandergray"
-
-
- 
