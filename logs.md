@@ -22,11 +22,3 @@
 
 "https://developer.blender.org/p/summeremiliya"
 
- 
-"https://developer.blender.org/p/summeremiliya"
-
-
-"https://developer.blender.org/p/GurpreetSingh123"
-
-
- 
