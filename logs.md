@@ -28,14 +28,3 @@
 
 "https://developer.blender.org/p/Citylinecabs"
 
- 
-"https://developer.blender.org/p/sayfulpp1"
-
-
-"https://developer.blender.org/p/naijhiphop"
-
-
-"https://developer.blender.org/p/summeremiliya"
-
-
- 
