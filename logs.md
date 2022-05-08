@@ -30,11 +30,3 @@
 
 "https://developer.blender.org/p/tahirkhan1122"
 
- 
-"https://developer.blender.org/p/Citylinecabs"
-
-
-"https://developer.blender.org/p/sayfulpp1"
-
-
- 
