@@ -6,8 +6,5 @@
 
 "https://developer.blender.org/p/Jyrice"
 
- 
 "https://developer.blender.org/p/kevin.curry"
 
-
- 
