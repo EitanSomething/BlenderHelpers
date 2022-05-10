@@ -26,11 +26,7 @@
 
 "https://developer.blender.org/p/sadi12"
 
- 
 "https://developer.blender.org/p/Achalgotawala"
-
 
 "https://developer.blender.org/p/helpbot24"
 
-
- 
