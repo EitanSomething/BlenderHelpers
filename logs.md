@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/hanjisungg"
 
- 
 "https://developer.blender.org/p/sayfulpp"
 
-
- 
