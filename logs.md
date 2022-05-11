@@ -24,17 +24,7 @@
 
 "https://developer.blender.org/p/Tomas9970"
 
- 
 "https://developer.blender.org/p/mgpackersmovers"
-
 
 "https://developer.blender.org/p/teressya"
 
-
-"https://developer.blender.org/p/thetonergroup"
-
-
-"https://developer.blender.org/p/Tomas9970"
-
-
- 
