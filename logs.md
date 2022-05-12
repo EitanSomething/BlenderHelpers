@@ -14,14 +14,7 @@
 
 "https://developer.blender.org/p/macoptimizer"
 
- 
 "https://developer.blender.org/p/olive"
-
 
 "https://developer.blender.org/p/artstudio"
 
-
-"https://developer.blender.org/p/macoptimizer"
-
-
- 
