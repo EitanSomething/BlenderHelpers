@@ -12,11 +12,5 @@
 
 "https://developer.blender.org/p/coworkingpartner"
 
- 
 "https://developer.blender.org/p/dumpscollege"
 
-
-"https://developer.blender.org/p/coworkingpartner"
-
-
- 
