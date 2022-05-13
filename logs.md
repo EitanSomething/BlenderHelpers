@@ -10,17 +10,3 @@
 
 "https://developer.blender.org/p/careerastrology"
 
- 
-"https://developer.blender.org/p/SimsHealthcare"
-
-
-"https://developer.blender.org/p/Yomanto"
-
-
-"https://developer.blender.org/p/careerastrology"
-
-
-"https://developer.blender.org/p/antoniov"
-
-
- 
