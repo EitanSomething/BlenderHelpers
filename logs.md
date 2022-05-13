@@ -20,32 +20,19 @@
 
 "https://developer.blender.org/p/venteryn"
 
- 
 "https://developer.blender.org/p/super8etslotonline"
-
 
 "https://developer.blender.org/p/mjdiamonds"
 
-
 "https://developer.blender.org/p/pueblojewelers"
-
 
 "https://developer.blender.org/p/MaharajaJewelers"
 
-
 "https://developer.blender.org/p/Plasticsurgeryhouston"
-
 
 "https://developer.blender.org/p/Carbonrepro"
 
-
 "https://developer.blender.org/p/HajNabihMasjid"
-
 
 "https://developer.blender.org/p/Immex"
 
-
-"https://developer.blender.org/p/venteryn"
-
-
- 
