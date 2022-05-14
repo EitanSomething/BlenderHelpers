@@ -16,17 +16,7 @@
 
 "https://developer.blender.org/p/giwekoh"
 
- 
 "https://developer.blender.org/p/examoutdumps"
-
 
 "https://developer.blender.org/p/splendidchauffeurs"
 
-
-"https://developer.blender.org/p/giwekoh"
-
-
-"https://developer.blender.org/p/dumpscollege"
-
-
- 
