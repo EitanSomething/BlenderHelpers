@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/wayneturner4"
 
- 
-"https://developer.blender.org/p/alphadelta"
-
-
- 
