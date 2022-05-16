@@ -14,14 +14,3 @@
 
 "https://developer.blender.org/p/markmorgan"
 
- 
-"https://developer.blender.org/p/dairyproducts"
-
-
-"https://developer.blender.org/p/JURAGANBET88"
-
-
-"https://developer.blender.org/p/psuedo"
-
-
- 
