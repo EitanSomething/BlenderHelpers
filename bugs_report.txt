@@ -1,17 +1,17 @@
-Open High Priority bugs as of 2022-05-16:
+Open High Priority bugs as of 2022-05-17:
 
-[Animation & Rigging](https://developer.blender.org/maniphest/query/2P2UxkYF35n6/#R): 1
+[Animation & Rigging](https://developer.blender.org/maniphest/query/2P2UxkYF35n6/#R): 0
 [Core](https://developer.blender.org/maniphest/query/ZUhbQbYsFhS0/#R): 2
 [Grease Pencil](https://developer.blender.org/maniphest/query/3aBqTtUGGL6S/#R): 0
-[Modeling](https://developer.blender.org/maniphest/query/1yhH.uryM5Jd/#R): 7
-[Nodes & Physics](https://developer.blender.org/maniphest/query/U0sxIFNLA8wR/#R): 3
+[Modeling](https://developer.blender.org/maniphest/query/1yhH.uryM5Jd/#R): 6
+[Nodes & Physics](https://developer.blender.org/maniphest/query/U0sxIFNLA8wR/#R): 5
 [Pipeline, Assets & I/O](https://developer.blender.org/maniphest/query/qlpBH9sXDwgu/#R): 3
 [Platforms, Builds, Test & Devices](https://developer.blender.org/maniphest/query/HwtwBTQAkUVl/#R): 0
 [Python API](https://developer.blender.org/maniphest/query/.LXrMzP9eb8T/#R): 0
-[Render & Cycles](https://developer.blender.org/maniphest/query/TMa3_XQRcvFL/#R): 6
-[EEVEE & Viewport](https://developer.blender.org/maniphest/query/Ir0LS4F3sUT6/#R): 6
+[Render & Cycles](https://developer.blender.org/maniphest/query/TMa3_XQRcvFL/#R): 7
+[EEVEE & Viewport](https://developer.blender.org/maniphest/query/Ir0LS4F3sUT6/#R): 7
 [Sculpt, Paint & Texture](https://developer.blender.org/maniphest/query/bkxbTQs_g0oU/#R): 2
-[User Interface](https://developer.blender.org/maniphest/query/QAiqNkWtQQT1/#R): 2
+[User Interface](https://developer.blender.org/maniphest/query/QAiqNkWtQQT1/#R): 4
 [VFX & Video](https://developer.blender.org/maniphest/query/OIkVntw4V74i/#R): 1
 
-[Total](https://developer.blender.org/maniphest/query/hsOX9Fm3BmXk/#R): 32
+[Total](https://developer.blender.org/maniphest/query/hsOX9Fm3BmXk/#R): 35
