@@ -16,17 +16,3 @@
 
 "https://developer.blender.org/p/rumahcimahi"
 
- 
-"https://developer.blender.org/p/rumahcimahi"
-
-
-"https://developer.blender.org/p/JINTECH"
-
-
-"https://developer.blender.org/p/ANTEVETY"
-
-
-"https://developer.blender.org/p/hamza.elbarmaki"
-
-
- 
