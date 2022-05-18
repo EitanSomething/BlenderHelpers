@@ -19,3 +19,22 @@
 "https://developer.blender.org/p/FolksIT"
 
  
+"https://developer.blender.org/p/Londonbee"
+
+
+"https://developer.blender.org/p/doctors35"
+
+
+"https://developer.blender.org/p/qtsinfo"
+
+
+"https://developer.blender.org/p/sipexe"
+
+
+"https://developer.blender.org/p/FolksIT"
+
+
+"https://developer.blender.org/p/fullcracked"
+
+
+ 
