@@ -39,3 +39,10 @@
 "https://developer.blender.org/p/jifosa"
 
  
+"https://developer.blender.org/p/cosmosads"
+
+
+"https://developer.blender.org/p/cl3m3c7"
+
+
+ 
