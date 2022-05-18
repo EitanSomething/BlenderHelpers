@@ -14,11 +14,5 @@
 
 "https://developer.blender.org/p/wilbertkings"
 
- 
 "https://developer.blender.org/p/fullcracked"
 
-
-"https://developer.blender.org/p/hostingrb"
-
-
- 
