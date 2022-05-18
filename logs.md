@@ -42,8 +42,3 @@
 
 "https://developer.blender.org/p/Markjohn"
 
- 
-"https://developer.blender.org/p/cl3m3c7"
-
-
- 
