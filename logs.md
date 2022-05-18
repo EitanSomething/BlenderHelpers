@@ -36,20 +36,5 @@
 
 "https://developer.blender.org/p/cosmosads"
 
- 
 "https://developer.blender.org/p/jifosa"
 
-
-"https://developer.blender.org/p/evabutler410"
-
-
-"https://developer.blender.org/p/cosmosads"
-
-
-"https://developer.blender.org/p/ConfidusSolutions"
-
-
-"https://developer.blender.org/p/zdigitizinguk"
-
-
- 
