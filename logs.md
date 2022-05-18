@@ -18,11 +18,3 @@
 
 "https://developer.blender.org/p/FolksIT"
 
- 
-"https://developer.blender.org/p/fullcracked"
-
-
-"https://developer.blender.org/p/hostingrb"
-
-
- 
