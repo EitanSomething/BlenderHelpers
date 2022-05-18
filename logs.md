@@ -32,11 +32,3 @@
 
 "https://developer.blender.org/p/zdigitizinguk"
 
- 
-"https://developer.blender.org/p/zdigitizinguk"
-
-
-"https://developer.blender.org/p/doctors36"
-
-
- 
