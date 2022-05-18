@@ -37,3 +37,13 @@
 "https://developer.blender.org/p/cosmosads"
 
  
+"https://developer.blender.org/p/cosmosads"
+
+
+"https://developer.blender.org/p/ConfidusSolutions"
+
+
+"https://developer.blender.org/p/zdigitizinguk"
+
+
+ 
