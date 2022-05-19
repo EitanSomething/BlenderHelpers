@@ -48,17 +48,7 @@
 
 "https://developer.blender.org/p/judionlineterpercaya2022"
 
- 
 "https://developer.blender.org/p/tsa2olat"
-
 
 "https://developer.blender.org/p/PoojaAgarwal"
 
-
-"https://developer.blender.org/p/walterpinkmanse"
-
-
-"https://developer.blender.org/p/judionlineterpercaya2022"
-
-
- 
