@@ -10,17 +10,3 @@
 
 "https://developer.blender.org/p/SGN113"
 
- 
-"https://developer.blender.org/p/haidar1982"
-
-
-"https://developer.blender.org/p/y2mate"
-
-
-"https://developer.blender.org/p/mrbestplus"
-
-
-"https://developer.blender.org/p/Iamtechy"
-
-
- 
