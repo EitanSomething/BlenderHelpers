@@ -44,14 +44,7 @@
 
 "https://developer.blender.org/p/CaptainCatSparrow"
 
- 
 "https://developer.blender.org/p/walterpinkmanse"
-
 
 "https://developer.blender.org/p/judionlineterpercaya2022"
 
-
-"https://developer.blender.org/p/CaptainCatSparrow"
-
-
- 
