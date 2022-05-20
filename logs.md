@@ -14,11 +14,3 @@
 
 "https://developer.blender.org/p/WahooBahoo"
 
- 
-"https://developer.blender.org/p/adabpkb"
-
-
-"https://developer.blender.org/p/SGN113"
-
-
- 
