@@ -2,8 +2,3 @@
 
 "https://developer.blender.org/p/gun3d"
 
- 
-"https://developer.blender.org/p/gun3d"
-
-
- 
