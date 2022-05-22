@@ -10,20 +10,5 @@
 
 "https://developer.blender.org/p/tourismtiger"
 
- 
 "https://developer.blender.org/p/Agenslot77maxwin"
 
-
-"https://developer.blender.org/p/tourismtiger"
-
-
-"https://developer.blender.org/p/wikiaware"
-
-
-"https://developer.blender.org/p/digitech"
-
-
-"https://developer.blender.org/p/cadtofu"
-
-
- 
