@@ -6,11 +6,5 @@
 
 "https://developer.blender.org/p/Lafearte"
 
- 
-"https://developer.blender.org/p/Lafearte"
-
-
 "https://developer.blender.org/p/djbunny352"
 
-
- 
