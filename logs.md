@@ -20,11 +20,5 @@
 
 "https://developer.blender.org/p/itschrisho"
 
- 
 "https://developer.blender.org/p/FireartStudio"
 
-
-"https://developer.blender.org/p/itschrisho"
-
-
- 
