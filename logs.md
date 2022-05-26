@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/Sihtuk01"
 
- 
 "https://developer.blender.org/p/istanacasino"
 
-
- 
