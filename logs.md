@@ -14,20 +14,7 @@
 
 "https://developer.blender.org/p/123-fmovies-dl"
 
- 
 "https://developer.blender.org/p/michaelallison"
-
 
 "https://developer.blender.org/p/Fneeds"
 
-
-"https://developer.blender.org/p/123-fmovies-dl"
-
-
-"https://developer.blender.org/p/amanbhatt"
-
-
-"https://developer.blender.org/p/istanacasino"
-
-
- 
