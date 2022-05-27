@@ -1,4 +1,4 @@
-Open High Priority bugs as of 2022-05-26:
+Open High Priority bugs as of 2022-05-27:
 
 [Animation & Rigging](https://developer.blender.org/maniphest/query/2P2UxkYF35n6/#R): 0
 [Core](https://developer.blender.org/maniphest/query/ZUhbQbYsFhS0/#R): 2
