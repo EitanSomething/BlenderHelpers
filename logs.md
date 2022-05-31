@@ -2,11 +2,5 @@
 
 "https://developer.blender.org/p/danielkreger"
 
- 
-"https://developer.blender.org/p/danielkreger"
-
-
 "https://developer.blender.org/p/Moder"
 
-
- 
