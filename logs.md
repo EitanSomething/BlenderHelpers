@@ -6,8 +6,3 @@
 
 "https://developer.blender.org/p/Ezytips"
 
- 
-"https://developer.blender.org/p/Moder"
-
-
- 
