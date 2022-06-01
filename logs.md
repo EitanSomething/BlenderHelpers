@@ -10,14 +10,7 @@
 
 "https://developer.blender.org/p/johnvick22"
 
- 
 "https://developer.blender.org/p/NepalReads"
-
 
 "https://developer.blender.org/p/Nooga"
 
-
-"https://developer.blender.org/p/johnvick22"
-
-
- 
