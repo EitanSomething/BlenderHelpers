@@ -19,7 +19,7 @@ modules = {
     "Sculpt, Paint & Texture" : "https://developer.blender.org/maniphest/query/bkxbTQs_g0oU/#R",
     "User Interface" : "https://developer.blender.org/maniphest/query/QAiqNkWtQQT1/#R",
     "VFX & Video" : "https://developer.blender.org/maniphest/query/OIkVntw4V74i/#R",
-    "Total" : "https://developer.blender.org/maniphest/query/hsOX9Fm3BmXk/#R"
+    "Total" : "https://developer.blender.org/maniphest/query/SVlkSQt1fVSY/#R"
 }
 
 
