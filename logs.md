@@ -12,20 +12,5 @@
 
 "https://developer.blender.org/p/atifkhan316"
 
- 
 "https://developer.blender.org/p/werejer"
 
-
-"https://developer.blender.org/p/atifkhan316"
-
-
-"https://developer.blender.org/p/SkillCircle"
-
-
-"https://developer.blender.org/p/SagarN"
-
-
-"https://developer.blender.org/p/mobixone"
-
-
- 
