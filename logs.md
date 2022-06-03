@@ -30,26 +30,7 @@
 
 "https://developer.blender.org/p/alimayorru"
 
- 
 "https://developer.blender.org/p/olive0051"
-
 
 "https://developer.blender.org/p/MBS88JudiOnline"
 
-
-"https://developer.blender.org/p/thomaswhitetw"
-
-
-"https://developer.blender.org/p/womenlikethat"
-
-
-"https://developer.blender.org/p/alimayorru"
-
-
-"https://developer.blender.org/p/Aureatelabs"
-
-
-"https://developer.blender.org/p/vikipaul"
-
-
- 
