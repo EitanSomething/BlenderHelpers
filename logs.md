@@ -8,11 +8,3 @@
 
 "https://developer.blender.org/p/lalos"
 
- 
-"https://developer.blender.org/p/hrushi2000"
-
-
-"https://developer.blender.org/p/bbbooo3"
-
-
- 
