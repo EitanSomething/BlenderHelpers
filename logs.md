@@ -12,8 +12,3 @@
 
 "https://developer.blender.org/p/vidran"
 
- 
-"https://developer.blender.org/p/besteautobod"
-
-
- 
