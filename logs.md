@@ -18,11 +18,5 @@
 
 "https://developer.blender.org/p/forzoyerku"
 
- 
 "https://developer.blender.org/p/carlos.batista"
 
-
-"https://developer.blender.org/p/forzoyerku"
-
-
- 
