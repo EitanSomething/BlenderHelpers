@@ -22,11 +22,5 @@
 
 "https://developer.blender.org/p/Sanscen"
 
- 
 "https://developer.blender.org/p/recompensasgoogle"
 
-
-"https://developer.blender.org/p/Sanscen"
-
-
- 
