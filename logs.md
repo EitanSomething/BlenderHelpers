@@ -16,8 +16,5 @@
 
 "https://developer.blender.org/p/piyadasi"
 
- 
 "https://developer.blender.org/p/forzoyerku"
 
-
- 
