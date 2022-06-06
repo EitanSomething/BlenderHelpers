@@ -20,11 +20,5 @@
 
 "https://developer.blender.org/p/carlos.batista"
 
- 
 "https://developer.blender.org/p/Sanscen"
 
-
-"https://developer.blender.org/p/carlos.batista"
-
-
- 
