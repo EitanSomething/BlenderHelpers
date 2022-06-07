@@ -26,20 +26,7 @@
 
 "https://developer.blender.org/p/itsu"
 
- 
 "https://developer.blender.org/p/doctorshp"
-
 
 "https://developer.blender.org/p/amymayhem"
 
-
-"https://developer.blender.org/p/itsu"
-
-
-"https://developer.blender.org/p/recompensasgoogle"
-
-
-"https://developer.blender.org/p/Sanscen"
-
-
- 
