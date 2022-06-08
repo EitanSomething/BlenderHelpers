@@ -22,14 +22,3 @@
 
 "https://developer.blender.org/p/freeforfile"
 
- 
-"https://developer.blender.org/p/unlimited5gwirelessaccess"
-
-
-"https://developer.blender.org/p/comlinkmarketings"
-
-
-"https://developer.blender.org/p/KevinCurry_Unity"
-
-
- 
