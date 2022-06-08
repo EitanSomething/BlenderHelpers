@@ -16,17 +16,5 @@
 
 "https://developer.blender.org/p/laimrylah"
 
- 
 "https://developer.blender.org/p/alinamorgan"
 
-
-"https://developer.blender.org/p/onlinedoctor35"
-
-
-"https://developer.blender.org/p/Aureatelabs"
-
-
-"https://developer.blender.org/p/laimrylah"
-
-
- 
