@@ -10,17 +10,9 @@
 
 "https://developer.blender.org/p/onlinedoctor35"
 
- 
 "https://developer.blender.org/p/fatimafurniture"
-
-
-"https://developer.blender.org/p/onlinedoctor35"
-
 
 "https://developer.blender.org/p/Aureatelabs"
 
-
 "https://developer.blender.org/p/laimrylah"
 
-
- 
