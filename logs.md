@@ -12,20 +12,9 @@
 
 "https://developer.blender.org/p/KevinCurry_Unity"
 
- 
 "https://developer.blender.org/p/comlinkmarketings"
-
 
 "https://developer.blender.org/p/LopopoMurphy"
 
-
-"https://developer.blender.org/p/KevinCurry_Unity"
-
-
 "https://developer.blender.org/p/cleaningservice"
 
-
-"https://developer.blender.org/p/Tonimono"
-
-
- 
