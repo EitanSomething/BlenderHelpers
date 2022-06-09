@@ -24,8 +24,5 @@
 
 "https://developer.blender.org/p/cunningdental"
 
- 
 "https://developer.blender.org/p/mickeymantle"
 
-
- 
