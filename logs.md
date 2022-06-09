@@ -23,3 +23,16 @@
 "https://developer.blender.org/p/freeforfile"
 
  
+"https://developer.blender.org/p/Nexusups"
+
+
+"https://developer.blender.org/p/jacksonjack"
+
+
+"https://developer.blender.org/p/onlineprofessionalcourses"
+
+
+"https://developer.blender.org/p/novamartin"
+
+
+ 
