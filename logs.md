@@ -32,17 +32,5 @@
 
 "https://developer.blender.org/p/3dteam"
 
- 
 "https://developer.blender.org/p/henrywatson"
 
-
-"https://developer.blender.org/p/3dteam"
-
-
-"https://developer.blender.org/p/kirbysteakhouse"
-
-
-"https://developer.blender.org/p/dizcordum"
-
-
- 
