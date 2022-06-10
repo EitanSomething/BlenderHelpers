@@ -34,17 +34,5 @@
 
 "https://developer.blender.org/p/henrywatson"
 
- 
 "https://developer.blender.org/p/dwaynesantner"
 
-
-"https://developer.blender.org/p/henrywatson"
-
-
-"https://developer.blender.org/p/3dteam"
-
-
-"https://developer.blender.org/p/dizcordum"
-
-
- 
