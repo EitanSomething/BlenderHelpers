@@ -42,8 +42,3 @@
 
 "https://developer.blender.org/p/concavepgons"
 
- 
-"https://developer.blender.org/p/UltimaDameon"
-
-
- 
