@@ -36,23 +36,3 @@
 
 "https://developer.blender.org/p/ranjeettanha"
 
- 
-"https://developer.blender.org/p/faleyfaley"
-
-
-"https://developer.blender.org/p/ranjeettanha"
-
-
-"https://developer.blender.org/p/sotrasulti"
-
-
-"https://developer.blender.org/p/kedrepidre"
-
-
-"https://developer.blender.org/p/Leftunderatree"
-
-
-"https://developer.blender.org/p/Masonsmith74"
-
-
- 
