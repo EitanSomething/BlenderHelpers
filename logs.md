@@ -44,11 +44,3 @@
 
 "https://developer.blender.org/p/danieljackson07"
 
- 
-"https://developer.blender.org/p/concavepgons"
-
-
-"https://developer.blender.org/p/UltimaDameon"
-
-
- 
