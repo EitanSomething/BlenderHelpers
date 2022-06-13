@@ -50,8 +50,3 @@
 
 "https://developer.blender.org/p/julithomas358"
 
- 
-"https://developer.blender.org/p/zhurigreen0321"
-
-
- 
