@@ -6,11 +6,5 @@
 
 "https://developer.blender.org/p/VGT"
 
- 
 "https://developer.blender.org/p/aaynaclinic"
 
-
-"https://developer.blender.org/p/VGT"
-
-
- 
