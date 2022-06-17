@@ -4,11 +4,3 @@
 
 "https://developer.blender.org/p/leenajassi7"
 
- 
-"https://developer.blender.org/p/amishcraftedfurniture"
-
-
-"https://developer.blender.org/p/leenajassi7"
-
-
- 
