@@ -6,8 +6,5 @@
 
 "https://developer.blender.org/p/assignmenthelpus"
 
- 
 "https://developer.blender.org/p/TAXSET"
 
-
- 
