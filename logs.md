@@ -14,14 +14,5 @@
 
 "https://developer.blender.org/p/Amarendra"
 
- 
 "https://developer.blender.org/p/adamlee01"
 
-
-"https://developer.blender.org/p/Amarendra"
-
-
-"https://developer.blender.org/p/creapycreaper"
-
-
- 
