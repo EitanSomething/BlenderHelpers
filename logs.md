@@ -26,17 +26,5 @@
 
 "https://developer.blender.org/p/vinaysati"
 
- 
 "https://developer.blender.org/p/saroway"
 
-
-"https://developer.blender.org/p/vinaysati"
-
-
-"https://developer.blender.org/p/aboutdepressionhelp"
-
-
-"https://developer.blender.org/p/WhAtEvErYoUmEaN"
-
-
- 
