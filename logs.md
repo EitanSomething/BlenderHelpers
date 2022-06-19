@@ -30,26 +30,9 @@
 
 "https://developer.blender.org/p/Vendeta245"
 
- 
 "https://developer.blender.org/p/elitepassion"
-
 
 "https://developer.blender.org/p/hyderabadescort"
 
-
 "https://developer.blender.org/p/jackleena"
 
-
-"https://developer.blender.org/p/Vendeta245"
-
-
-"https://developer.blender.org/p/saroway"
-
-
-"https://developer.blender.org/p/vinaysati"
-
-
-"https://developer.blender.org/p/aboutdepressionhelp"
-
-
- 
