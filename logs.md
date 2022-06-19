@@ -24,8 +24,3 @@
 
 "https://developer.blender.org/p/aboutdepressionhelp"
 
- 
-"https://developer.blender.org/p/WhAtEvErYoUmEaN"
-
-
- 
