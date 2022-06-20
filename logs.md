@@ -12,8 +12,3 @@
 
 "https://developer.blender.org/p/sikiwa8297"
 
- 
-"https://developer.blender.org/p/Goblininthevoid"
-
-
- 
