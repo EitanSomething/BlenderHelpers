@@ -38,14 +38,3 @@
 
 "https://developer.blender.org/p/vipescorts"
 
- 
-"https://developer.blender.org/p/elitepassion"
-
-
-"https://developer.blender.org/p/hyderabadescort"
-
-
-"https://developer.blender.org/p/jackleena"
-
-
- 
