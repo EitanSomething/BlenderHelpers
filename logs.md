@@ -51,3 +51,19 @@
 "https://developer.blender.org/p/Symilate"
 
  
+"https://developer.blender.org/p/digitechwebservices"
+
+
+"https://developer.blender.org/p/Symilate"
+
+
+"https://developer.blender.org/p/slotgacorp"
+
+
+"https://developer.blender.org/p/viva99slotonline"
+
+
+"https://developer.blender.org/p/aimakot0"
+
+
+ 
