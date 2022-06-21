@@ -26,11 +26,3 @@
 
 "https://developer.blender.org/p/jasonsturges"
 
- 
-"https://developer.blender.org/p/anatawa12"
-
-
-"https://developer.blender.org/p/jasonsturges"
-
-
- 
