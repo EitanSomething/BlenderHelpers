@@ -20,20 +20,7 @@
 
 "https://developer.blender.org/p/HomeAppliancesRepair"
 
- 
 "https://developer.blender.org/p/rupiahonline"
-
 
 "https://developer.blender.org/p/anatawa12"
 
-
-"https://developer.blender.org/p/HomeAppliancesRepair"
-
-
-"https://developer.blender.org/p/Venture_"
-
-
-"https://developer.blender.org/p/KOT_B_KBAHTE"
-
-
- 
