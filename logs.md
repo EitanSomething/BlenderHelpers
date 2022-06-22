@@ -10,17 +10,5 @@
 
 "https://developer.blender.org/p/bispemurza"
 
- 
 "https://developer.blender.org/p/harryelza"
 
-
-"https://developer.blender.org/p/wekoy"
-
-
-"https://developer.blender.org/p/bispemurza"
-
-
-"https://developer.blender.org/p/sdilmob"
-
-
- 
