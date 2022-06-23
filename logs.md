@@ -14,11 +14,5 @@
 
 "https://developer.blender.org/p/28diamonds"
 
- 
-"https://developer.blender.org/p/Detoxenvi"
-
-
 "https://developer.blender.org/p/KevinCurry_Unity"
 
-
- 
