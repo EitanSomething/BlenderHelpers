@@ -20,11 +20,3 @@
 
 "https://developer.blender.org/p/petsproreviews"
 
- 
-"https://developer.blender.org/p/Jpaquim"
-
-
-"https://developer.blender.org/p/wefindin"
-
-
- 
