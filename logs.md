@@ -22,11 +22,5 @@
 
 "https://developer.blender.org/p/tautanbalik"
 
- 
 "https://developer.blender.org/p/lindesypaul"
 
-
-"https://developer.blender.org/p/tautanbalik"
-
-
- 
