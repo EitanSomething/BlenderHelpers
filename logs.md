@@ -20,8 +20,5 @@
 
 "https://developer.blender.org/p/petsproreviews"
 
- 
 "https://developer.blender.org/p/tautanbalik"
 
-
- 
