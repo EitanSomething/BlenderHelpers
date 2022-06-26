@@ -24,14 +24,5 @@
 
 "https://developer.blender.org/p/lindesypaul"
 
- 
 "https://developer.blender.org/p/bangaloredigitalmarketing"
 
-
-"https://developer.blender.org/p/lindesypaul"
-
-
-"https://developer.blender.org/p/tautanbalik"
-
-
- 
