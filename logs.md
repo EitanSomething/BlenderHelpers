@@ -12,20 +12,7 @@
 
 "https://developer.blender.org/p/Integrated.laboratories_2005"
 
- 
 "https://developer.blender.org/p/Hekka"
-
 
 "https://developer.blender.org/p/vietvay"
 
-
-"https://developer.blender.org/p/netu"
-
-
-"https://developer.blender.org/p/sachin8888"
-
-
-"https://developer.blender.org/p/Integrated.laboratories_2005"
-
-
- 
