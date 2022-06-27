@@ -30,8 +30,3 @@
 
 "https://developer.blender.org/p/Cbender33"
 
- 
-"https://developer.blender.org/p/freekdevrij"
-
-
- 
