@@ -21,3 +21,19 @@
 "https://developer.blender.org/p/guishe"
 
  
+"https://developer.blender.org/p/eridesolutions"
+
+
+"https://developer.blender.org/p/Kinemaster"
+
+
+"https://developer.blender.org/p/theboatingemporium"
+
+
+"https://developer.blender.org/p/eetolaser"
+
+
+"https://developer.blender.org/p/guishe"
+
+
+ 
