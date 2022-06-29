@@ -28,14 +28,7 @@
 
 "https://developer.blender.org/p/LordOpof"
 
- 
 "https://developer.blender.org/p/marcopolo2"
-
 
 "https://developer.blender.org/p/tailstyle01"
 
-
-"https://developer.blender.org/p/LordOpof"
-
-
- 
