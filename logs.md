@@ -32,11 +32,3 @@
 
 "https://developer.blender.org/p/tailstyle01"
 
- 
-"https://developer.blender.org/p/tailstyle01"
-
-
-"https://developer.blender.org/p/LordOpof"
-
-
- 
