@@ -12,11 +12,5 @@
 
 "https://developer.blender.org/p/innovativecbdus"
 
- 
 "https://developer.blender.org/p/adlercamila07"
 
-
-"https://developer.blender.org/p/innovativecbdus"
-
-
- 
