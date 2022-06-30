@@ -36,14 +36,3 @@
 
 "https://developer.blender.org/p/Thextrem23"
 
- 
-"https://developer.blender.org/p/marcopolo2"
-
-
-"https://developer.blender.org/p/tailstyle01"
-
-
-"https://developer.blender.org/p/Thextrem23"
-
-
- 
