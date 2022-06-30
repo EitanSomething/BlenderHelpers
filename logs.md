@@ -38,11 +38,3 @@
 
 "https://developer.blender.org/p/Integrateduser08"
 
- 
-"https://developer.blender.org/p/toto4dunsur"
-
-
-"https://developer.blender.org/p/Thextrem23"
-
-
- 
