@@ -1,7 +1,7 @@
-Open High Priority bugs as of 2022-06-30:
+Open High Priority bugs as of 2022-07-01:
 
 [Animation & Rigging](https://developer.blender.org/maniphest/query/2P2UxkYF35n6/#R): 2
-[Core](https://developer.blender.org/maniphest/query/ZUhbQbYsFhS0/#R): 2
+[Core](https://developer.blender.org/maniphest/query/ZUhbQbYsFhS0/#R): 3
 [Grease Pencil](https://developer.blender.org/maniphest/query/3aBqTtUGGL6S/#R): 0
 [Modeling](https://developer.blender.org/maniphest/query/1yhH.uryM5Jd/#R): 7
 [Nodes & Physics](https://developer.blender.org/maniphest/query/U0sxIFNLA8wR/#R): 2
@@ -14,4 +14,4 @@ Open High Priority bugs as of 2022-06-30:
 [User Interface](https://developer.blender.org/maniphest/query/QAiqNkWtQQT1/#R): 0
 [VFX & Video](https://developer.blender.org/maniphest/query/OIkVntw4V74i/#R): 1
 
-[Total](https://developer.blender.org/maniphest/query/SVlkSQt1fVSY/#R): 23
+[Total](https://developer.blender.org/maniphest/query/SVlkSQt1fVSY/#R): 24
