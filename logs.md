@@ -14,23 +14,5 @@
 
 "https://developer.blender.org/p/pamelaingoa"
 
- 
 "https://developer.blender.org/p/hfredca"
 
-
-"https://developer.blender.org/p/propertyinvestorsfdb"
-
-
-"https://developer.blender.org/p/pamelaingoa"
-
-
-"https://developer.blender.org/p/pevifex"
-
-
-"https://developer.blender.org/p/pipahaha"
-
-
-"https://developer.blender.org/p/mugwort"
-
-
- 
