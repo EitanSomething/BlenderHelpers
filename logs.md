@@ -6,11 +6,5 @@
 
 "https://developer.blender.org/p/smartwatch"
 
- 
 "https://developer.blender.org/p/sattamatkakapil"
 
-
-"https://developer.blender.org/p/smartwatch"
-
-
- 
