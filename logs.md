@@ -20,23 +20,3 @@
 
 "https://developer.blender.org/p/tomellis"
 
- 
-"https://developer.blender.org/p/Skittlesproductions"
-
-
-"https://developer.blender.org/p/Autosultan"
-
-
-"https://developer.blender.org/p/sandwich_panel"
-
-
-"https://developer.blender.org/p/sattamatkakapil"
-
-
-"https://developer.blender.org/p/the_avg_guy"
-
-
-"https://developer.blender.org/p/lumpycow"
-
-
- 
