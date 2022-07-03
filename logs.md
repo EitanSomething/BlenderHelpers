@@ -26,14 +26,5 @@
 
 "https://developer.blender.org/p/smrasheed002"
 
- 
-"https://developer.blender.org/p/ogrenciindirimi"
-
-
-"https://developer.blender.org/p/tehrantc"
-
-
 "https://developer.blender.org/p/jendabek"
 
-
- 
