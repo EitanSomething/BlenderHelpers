@@ -18,14 +18,5 @@
 
 "https://developer.blender.org/p/PratikPB2123"
 
- 
 "https://developer.blender.org/p/neotokio"
 
-
-"https://developer.blender.org/p/teryakiisauce"
-
-
-"https://developer.blender.org/p/PratikPB2123"
-
-
- 
