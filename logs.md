@@ -18,8 +18,3 @@
 
 "https://developer.blender.org/p/PratikPB2123"
 
- 
-"https://developer.blender.org/p/PratikPB2123"
-
-
- 
