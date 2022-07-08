@@ -8,8 +8,5 @@
 
 "https://developer.blender.org/p/rizvi"
 
- 
 "https://developer.blender.org/p/saviom_software"
 
-
- 
