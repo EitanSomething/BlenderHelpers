@@ -20,8 +20,5 @@
 
 "https://developer.blender.org/p/binanceusasupport"
 
- 
 "https://developer.blender.org/p/shattikiz943"
 
-
- 
