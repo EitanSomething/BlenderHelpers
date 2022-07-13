@@ -7,3 +7,13 @@
 "https://developer.blender.org/p/gfxcoder"
 
  
+"https://developer.blender.org/p/avaslidecast"
+
+
+"https://developer.blender.org/p/thecbdblogs"
+
+
+"https://developer.blender.org/p/gfxcoder"
+
+
+ 
