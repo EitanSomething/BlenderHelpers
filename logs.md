@@ -30,17 +30,3 @@
 
 "https://developer.blender.org/p/Mets"
 
- 
-"https://developer.blender.org/p/makbosco321"
-
-
-"https://developer.blender.org/p/slot-gacor-gampang-menang"
-
-
-"https://developer.blender.org/p/jiwaplay"
-
-
-"https://developer.blender.org/p/Mets"
-
-
- 
