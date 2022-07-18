@@ -40,8 +40,3 @@
 
 "https://developer.blender.org/p/cancerrounds"
 
- 
-"https://developer.blender.org/p/Blender_Bug"
-
-
- 
