@@ -10,11 +10,3 @@
 
 "https://developer.blender.org/p/moist999"
 
- 
-"https://developer.blender.org/p/moist999"
-
-
-"https://developer.blender.org/p/samgotch"
-
-
- 
