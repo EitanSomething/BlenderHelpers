@@ -1,10 +1,10 @@
-Open High Priority bugs as of 2022-07-18:
+Open High Priority bugs as of 2022-07-19:
 
 [Animation & Rigging](https://developer.blender.org/maniphest/query/2P2UxkYF35n6/#R): 1
 [Core](https://developer.blender.org/maniphest/query/ZUhbQbYsFhS0/#R): 1
 [Grease Pencil](https://developer.blender.org/maniphest/query/3aBqTtUGGL6S/#R): 1
-[Modeling](https://developer.blender.org/maniphest/query/1yhH.uryM5Jd/#R): 8
-[Nodes & Physics](https://developer.blender.org/maniphest/query/U0sxIFNLA8wR/#R): 6
+[Modeling](https://developer.blender.org/maniphest/query/1yhH.uryM5Jd/#R): 7
+[Nodes & Physics](https://developer.blender.org/maniphest/query/U0sxIFNLA8wR/#R): 7
 [Pipeline, Assets & I/O](https://developer.blender.org/maniphest/query/qlpBH9sXDwgu/#R): 0
 [Platforms, Builds, Test & Devices](https://developer.blender.org/maniphest/query/HwtwBTQAkUVl/#R): 1
 [Python API](https://developer.blender.org/maniphest/query/.LXrMzP9eb8T/#R): 3
