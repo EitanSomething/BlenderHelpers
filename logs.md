@@ -24,23 +24,5 @@
 
 "https://developer.blender.org/p/cygnushospital11"
 
- 
-"https://developer.blender.org/p/riemensolution"
-
-
-"https://developer.blender.org/p/paul0608"
-
-
-"https://developer.blender.org/p/mbainaday"
-
-
-"https://developer.blender.org/p/iFixScreens"
-
-
 "https://developer.blender.org/p/afonde"
 
-
-"https://developer.blender.org/p/bassomatic76"
-
-
- 
