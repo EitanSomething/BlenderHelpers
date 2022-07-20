@@ -17,3 +17,22 @@
 "https://developer.blender.org/p/bassomatic76"
 
  
+"https://developer.blender.org/p/riemensolution"
+
+
+"https://developer.blender.org/p/paul0608"
+
+
+"https://developer.blender.org/p/mbainaday"
+
+
+"https://developer.blender.org/p/James001"
+
+
+"https://developer.blender.org/p/iFixScreens"
+
+
+"https://developer.blender.org/p/bassomatic76"
+
+
+ 
