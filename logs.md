@@ -14,11 +14,5 @@
 
 "https://developer.blender.org/p/iFixScreens"
 
- 
-"https://developer.blender.org/p/iFixScreens"
-
-
 "https://developer.blender.org/p/bassomatic76"
 
-
- 
