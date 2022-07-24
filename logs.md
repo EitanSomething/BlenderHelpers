@@ -20,14 +20,3 @@
 
 "https://developer.blender.org/p/techmagone"
 
- 
-"https://developer.blender.org/p/kaneki45"
-
-
-"https://developer.blender.org/p/brissybins"
-
-
-"https://developer.blender.org/p/johnsoncat"
-
-
- 
