@@ -22,11 +22,3 @@
 
 "https://developer.blender.org/p/ispanyolca"
 
- 
-"https://developer.blender.org/p/kaneki45"
-
-
-"https://developer.blender.org/p/brissybins"
-
-
- 
