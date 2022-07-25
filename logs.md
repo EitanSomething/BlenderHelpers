@@ -24,8 +24,5 @@
 
 "https://developer.blender.org/p/sdeep"
 
- 
 "https://developer.blender.org/p/lastrodamo"
 
-
- 
