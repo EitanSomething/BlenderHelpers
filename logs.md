@@ -20,11 +20,3 @@
 
 "https://developer.blender.org/p/yaestilo"
 
- 
-"https://developer.blender.org/p/yaestilo"
-
-
-"https://developer.blender.org/p/handsaccounting"
-
-
- 
