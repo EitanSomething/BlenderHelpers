@@ -4,8 +4,3 @@
 
 "https://developer.blender.org/p/FamilyTree"
 
- 
-"https://developer.blender.org/p/hosin96"
-
-
- 
