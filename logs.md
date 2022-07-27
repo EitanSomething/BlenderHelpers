@@ -12,17 +12,5 @@
 
 "https://developer.blender.org/p/hamyarewebacademy"
 
- 
 "https://developer.blender.org/p/alikhoshi"
 
-
-"https://developer.blender.org/p/hamyarewebacademy"
-
-
-"https://developer.blender.org/p/javida"
-
-
-"https://developer.blender.org/p/shanstv"
-
-
- 
