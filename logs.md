@@ -12,8 +12,3 @@
 
 "https://developer.blender.org/p/forsarah"
 
- 
-"https://developer.blender.org/p/afonde"
-
-
- 
