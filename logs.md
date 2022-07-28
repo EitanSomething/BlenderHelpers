@@ -16,11 +16,5 @@
 
 "https://developer.blender.org/p/rjg"
 
- 
 "https://developer.blender.org/p/bluepcb"
 
-
-"https://developer.blender.org/p/rjg"
-
-
- 
