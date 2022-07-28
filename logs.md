@@ -14,8 +14,5 @@
 
 "https://developer.blender.org/p/quellenform"
 
- 
 "https://developer.blender.org/p/alockssmith"
 
-
- 
