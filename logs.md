@@ -20,14 +20,5 @@
 
 "https://developer.blender.org/p/mrbookappoints"
 
- 
 "https://developer.blender.org/p/paypal6985"
 
-
-"https://developer.blender.org/p/mrbookappoints"
-
-
-"https://developer.blender.org/p/Tobin"
-
-
- 
