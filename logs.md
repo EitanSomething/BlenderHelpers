@@ -16,8 +16,3 @@
 
 "https://developer.blender.org/p/paypal254120"
 
- 
-"https://developer.blender.org/p/leesa141"
-
-
- 
